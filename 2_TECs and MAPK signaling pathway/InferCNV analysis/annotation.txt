@@ -1,0 +1,1347 @@
+cell_type
+Set1_AACACGTCACGGCTAC-1	Tumor-associated endothelial cells
+Set1_AACGTTGCATGCCACG-1	Tumor-associated endothelial cells
+Set1_AACTCAGAGGCTATCT-1	B cells
+Set1_AACTCTTGTTCAACCA-1	Tumor-associated endothelial cells
+Set1_AAGCCGCAGGGAGTAA-1	Tumor-associated endothelial cells
+Set1_AAGGTTCTCCTTGGTC-1	Tumor-associated endothelial cells
+Set1_AATCCAGCATCGGAAG-1	Tumor-associated endothelial cells
+Set1_ACACCGGGTCAGAAGC-1	Tumor-associated endothelial cells
+Set1_ACAGCTAGTTTCGCTC-1	Tumor-associated endothelial cells
+Set1_ACATACGCACCAGCAC-1	Tumor-associated endothelial cells
+Set1_ACATCAGTCTCTTATG-1	Tumor-associated endothelial cells
+Set1_ACCCACTAGGACTGGT-1	Tumor-associated endothelial cells
+Set1_ACCCACTGTTGCGCAC-1	Tumor-associated endothelial cells
+Set1_ACCTTTAAGTGTCTCA-1	Tumor-associated endothelial cells
+Set1_ACCTTTATCAGTTAGC-1	Tumor-associated endothelial cells
+Set1_ACCTTTATCGGCTACG-1	Tumor-associated endothelial cells
+Set1_ACGAGCCAGAGTACAT-1	Tumor-associated endothelial cells
+Set1_ACGATGTAGCCCGAAA-1	Tumor-associated endothelial cells
+Set1_ACGCCGAAGCAGCGTA-1	Tumor-associated endothelial cells
+Set1_ACGGCCAGTTACGACT-1	Tumor-associated endothelial cells
+Set1_ACGGGCTGTGTTGGGA-1	Tumor-associated endothelial cells
+Set1_ACGGGTCTCAGGCAAG-1	Tumor-associated endothelial cells
+Set1_ACGGGTCTCGTTTATC-1	Tumor-associated endothelial cells
+Set1_ACTGATGGTACATCCA-1	Tumor-associated endothelial cells
+Set1_ACTTACTCATATGGTC-1	Tumor-associated endothelial cells
+Set1_AGAATAGAGGTCGGAT-1	Tumor-associated endothelial cells
+Set1_AGACGTTCAAGTAGTA-1	Tumor-associated endothelial cells
+Set1_AGACGTTTCTTCATGT-1	Tumor-associated endothelial cells
+Set1_AGAGTGGGTCTTGCGG-1	Tumor-associated endothelial cells
+Set1_AGATCTGAGAGTCTGG-1	Tumor-associated endothelial cells
+Set1_AGATCTGAGATAGCAT-1	Tumor-associated endothelial cells
+Set1_AGCAGCCGTCTTTCAT-1	Tumor-associated endothelial cells
+Set1_AGCCTAAAGCTGAAAT-1	Tumor-associated endothelial cells
+Set1_AGCCTAATCCTCATTA-1	Tumor-associated endothelial cells
+Set1_AGCGGTCGTCGTCTTC-1	Tumor-associated endothelial cells
+Set1_AGCGGTCTCACCATAG-1	Tumor-associated endothelial cells
+Set1_AGCGTATAGTGTACCT-1	Tumor-associated endothelial cells
+Set1_AGCGTCGTCCCTCTTT-1	Tumor-associated endothelial cells
+Set1_AGCTTGAGTACAGCAG-1	Tumor-associated endothelial cells
+Set1_AGCTTGATCACTTATC-1	Tumor-associated endothelial cells
+Set1_AGGGAGTCATATACGC-1	Tumor-associated endothelial cells
+Set1_AGGGATGGTAGGACAC-1	Tumor-associated endothelial cells
+Set1_AGGGTGACACATGACT-1	Tumor-associated endothelial cells
+Set1_AGGTCCGGTTAAGTAG-1	Tumor-associated endothelial cells
+Set1_AGTAGTCAGACCACGA-1	Tumor-associated endothelial cells
+Set1_ATAGACCCAAATCCGT-1	Tumor-associated endothelial cells
+Set1_ATAGACCGTGTGAAAT-1	Tumor-associated endothelial cells
+Set1_ATCCGAAAGGAGTACC-1	B cells
+Set1_ATCCGAATCGCCTGTT-1	Tumor-associated endothelial cells
+Set1_ATGCGATCATGACATC-1	Tumor-associated endothelial cells
+Set1_ATGTGTGAGTTGAGTA-1	Tumor-associated endothelial cells
+Set1_ATTACTCCACGGATAG-1	Tumor-associated endothelial cells
+Set1_CAAGTTGAGGGCACTA-1	Tumor-associated endothelial cells
+Set1_CAAGTTGCATTCACTT-1	Tumor-associated endothelial cells
+Set1_CACAAACGTACTCTCC-1	Tumor-associated endothelial cells
+Set1_CACACAATCTTGACGA-1	Tumor-associated endothelial cells
+Set1_CACAGGCCAGACGTAG-1	Tumor-associated endothelial cells
+Set1_CACAGTAAGAGCTTCT-1	Tumor-associated endothelial cells
+Set1_CACAGTATCCGTCATC-1	Tumor-associated endothelial cells
+Set1_CACATAGGTTGACGTT-1	Tumor-associated endothelial cells
+Set1_CACATTTAGCGAAGGG-1	Tumor-associated endothelial cells
+Set1_CACATTTGTTGTGGCC-1	Tumor-associated endothelial cells
+Set1_CAGAATCAGCTTATCG-1	Tumor-associated endothelial cells
+Set1_CAGCAGCAGCCAGAAC-1	Tumor-associated endothelial cells
+Set1_CAGCTAAAGTTCGATC-1	Tumor-associated endothelial cells
+Set1_CAGGTGCGTACGCTGC-1	Tumor-associated endothelial cells
+Set1_CAGTAACAGCTGTCTA-1	Tumor-associated endothelial cells
+Set1_CATATGGGTCATCCCT-1	Tumor-associated endothelial cells
+Set1_CATCCACAGAAGGTGA-1	Tumor-associated endothelial cells
+Set1_CATCCACAGTCTCCTC-1	Tumor-associated endothelial cells
+Set1_CATCCACCACAGGTTT-1	Tumor-associated endothelial cells
+Set1_CATCGAAAGTTGCAGG-1	Tumor-associated endothelial cells
+Set1_CATCGGGCAAACCTAC-1	Tumor-associated endothelial cells
+Set1_CATTATCAGATGCGAC-1	Tumor-associated endothelial cells
+Set1_CATTATCTCCCTTGCA-1	Tumor-associated endothelial cells
+Set1_CCCAGTTTCCAACCAA-1	Tumor-associated endothelial cells
+Set1_CCCATACGTAAGCACG-1	Tumor-associated endothelial cells
+Set1_CCCTCCTAGGGTGTGT-1	Tumor-associated endothelial cells
+Set1_CCGTACTTCCTGCCAT-1	Tumor-associated endothelial cells
+Set1_CCGTGGATCGGAAACG-1	Tumor-associated endothelial cells
+Set1_CCGTTCAAGCGTGAGT-1	Tumor-associated endothelial cells
+Set1_CCGTTCACACCATGTA-1	Tumor-associated endothelial cells
+Set1_CCTATTATCGAATGCT-1	Tumor-associated endothelial cells
+Set1_CCTCTGAGTGAGTATA-1	B cells
+Set1_CGAACATGTAGAGGAA-1	Tumor-associated endothelial cells
+Set1_CGACCTTTCCGCAAGC-1	Tumor-associated endothelial cells
+Set1_CGACTTCAGAGTGAGA-1	Tumor-associated endothelial cells
+Set1_CGAGCCAAGGTAGCTG-1	B cells
+Set1_CGAGCCACAATGTTGC-1	Tumor-associated endothelial cells
+Set1_CGATCGGCAAGCCCAC-1	Tumor-associated endothelial cells
+Set1_CGATGGCGTACAGCAG-1	Tumor-associated endothelial cells
+Set1_CGCGGTAAGCCAGTAG-1	Tumor-associated endothelial cells
+Set1_CGCGTTTAGAGCTGGT-1	Tumor-associated endothelial cells
+Set1_CGCGTTTTCCGCGGTA-1	Tumor-associated endothelial cells
+Set1_CGCTGGATCCTAGAAC-1	Tumor-associated endothelial cells
+Set1_CGGACGTGTCTAACGT-1	Tumor-associated endothelial cells
+Set1_CGGAGCTGTCTTGCGG-1	Tumor-associated endothelial cells
+Set1_CGTCTACTCTTAGAGC-1	Tumor-associated endothelial cells
+Set1_CGTGAGCCAGAGTGTG-1	Tumor-associated endothelial cells
+Set1_CGTTGGGCAAGGTGTG-1	Tumor-associated endothelial cells
+Set1_CTAATGGCAACCGCCA-1	Tumor-associated endothelial cells
+Set1_CTACACCGTTCTGTTT-1	Tumor-associated endothelial cells
+Set1_CTACATTGTATCACCA-1	Tumor-associated endothelial cells
+Set1_CTACCCATCAGAGACG-1	Tumor-associated endothelial cells
+Set1_CTACCCATCGCAAACT-1	Tumor-associated endothelial cells
+Set1_CTAGCCTAGCGTTCCG-1	Tumor-associated endothelial cells
+Set1_CTCACACGTAGGGTAC-1	Tumor-associated endothelial cells
+Set1_CTCACACGTTTGTTTC-1	Tumor-associated endothelial cells
+Set1_CTCGAGGGTGGGTCAA-1	Tumor-associated endothelial cells
+Set1_CTCGTCAAGTCTCCTC-1	Tumor-associated endothelial cells
+Set1_CTGTGCTAGCAGCCTC-1	Tumor-associated endothelial cells
+Set1_CTGTTTACACCCATGG-1	Tumor-associated endothelial cells
+Set1_CTTAACTAGTATGACA-1	Tumor-associated endothelial cells
+Set1_CTTAACTTCCATGCTC-1	Tumor-associated endothelial cells
+Set1_CTTAGGAGTTCGTCTC-1	Tumor-associated endothelial cells
+Set1_CTTCTCTGTGTGGTTT-1	Tumor-associated endothelial cells
+Set1_CTTTGCGTCACAATGC-1	Tumor-associated endothelial cells
+Set1_GAAATGAGTCTTCGTC-1	Tumor-associated endothelial cells
+Set1_GAATAAGTCATCGCTC-1	Tumor-associated endothelial cells
+Set1_GAATGAAGTTCGCTAA-1	Tumor-associated endothelial cells
+Set1_GACACGCGTGCTTCTC-1	Tumor-associated endothelial cells
+Set1_GACCTGGGTAAGAGGA-1	Tumor-associated endothelial cells
+Set1_GACGCGTTCAAAGACA-1	Tumor-associated endothelial cells
+Set1_GACGGCTTCACGGTTA-1	Tumor-associated endothelial cells
+Set1_GACTAACCATTACCTT-1	Tumor-associated endothelial cells
+Set1_GAGGTGAAGCAGCCTC-1	Tumor-associated endothelial cells
+Set1_GATCGATAGATATACG-1	Tumor-associated endothelial cells
+Set1_GATCGATTCTGTCCGT-1	Tumor-associated endothelial cells
+Set1_GATCGTAAGACTAGAT-1	Tumor-associated endothelial cells
+Set1_GATGAAACACCATGTA-1	Tumor-associated endothelial cells
+Set1_GATGCTATCGTCTGCT-1	Tumor-associated endothelial cells
+Set1_GCAAACTTCAGTGTTG-1	Tumor-associated endothelial cells
+Set1_GCAATCAGTACAGTGG-1	Tumor-associated endothelial cells
+Set1_GCACATAAGGGTGTGT-1	Tumor-associated endothelial cells
+Set1_GCACATACATACCATG-1	Tumor-associated endothelial cells
+Set1_GCAGCCATCAACGGGA-1	Tumor-associated endothelial cells
+Set1_GCATGATTCTTACCGC-1	Tumor-associated endothelial cells
+Set1_GCATGTAGTCTTGCGG-1	Tumor-associated endothelial cells
+Set1_GCCAAATCACAGGCCT-1	Tumor-associated endothelial cells
+Set1_GCCTCTAGTCCGTCAG-1	Tumor-associated endothelial cells
+Set1_GCCTCTATCACTTATC-1	Tumor-associated endothelial cells
+Set1_GCTCCTATCATCGGAT-1	Tumor-associated endothelial cells
+Set1_GCTGCAGAGAACTCGG-1	Tumor-associated endothelial cells
+Set1_GCTGCTTCACTAGTAC-1	Tumor-associated endothelial cells
+Set1_GCTGCTTTCAAAGTAG-1	Tumor-associated endothelial cells
+Set1_GGAACTTCAGTCAGCC-1	Tumor-associated endothelial cells
+Set1_GGAATAAAGCTTCGCG-1	Tumor-associated endothelial cells
+Set1_GGAATAAGTAGCCTAT-1	Tumor-associated endothelial cells
+Set1_GGACAAGGTGAAATCA-1	Tumor-associated endothelial cells
+Set1_GGACAAGGTTCACGGC-1	Tumor-associated endothelial cells
+Set1_GGACAGAGTGCAACGA-1	Tumor-associated endothelial cells
+Set1_GGACATTTCAATAAGG-1	Tumor-associated endothelial cells
+Set1_GGATGTTGTCGTGGCT-1	Tumor-associated endothelial cells
+Set1_GGCAATTTCATTATCC-1	Tumor-associated endothelial cells
+Set1_GGCGACTAGCGTGTCC-1	Tumor-associated endothelial cells
+Set1_GGCGTGTCAGGTCGTC-1	Tumor-associated endothelial cells
+Set1_GGCTCGAGTTGACGTT-1	Tumor-associated endothelial cells
+Set1_GGGATGATCAGGCGAA-1	Tumor-associated endothelial cells
+Set1_GGGCATCTCTTTAGGG-1	Tumor-associated endothelial cells
+Set1_GGGTCTGTCATTGCGA-1	Tumor-associated endothelial cells
+Set1_GGTATTGAGTAGGCCA-1	Tumor-associated endothelial cells
+Set1_GTACGTAAGGGTATCG-1	Tumor-associated endothelial cells
+Set1_GTACGTAGTACCGTTA-1	Tumor-associated endothelial cells
+Set1_GTAGGCCAGGGATGGG-1	Tumor-associated endothelial cells
+Set1_GTCACAACACAGGCCT-1	Tumor-associated endothelial cells
+Set1_GTCACGGGTCAGATAA-1	Tumor-associated endothelial cells
+Set1_GTCATTTAGAGTGAGA-1	Tumor-associated endothelial cells
+Set1_GTCGGGTCAATGCCAT-1	Tumor-associated endothelial cells
+Set1_GTGGGTCCAACAACCT-1	Tumor-associated endothelial cells
+Set1_GTGTGCGGTCACCCAG-1	Tumor-associated endothelial cells
+Set1_GTTCATTGTTACGTCA-1	Tumor-associated endothelial cells
+Set1_GTTCTCGAGAGCCTAG-1	Tumor-associated endothelial cells
+Set1_TAAACCGTCCGGGTGT-1	Tumor-associated endothelial cells
+Set1_TACACGATCGTCCAGG-1	Tumor-associated endothelial cells
+Set1_TACGGGCAGGGAAACA-1	Tumor-associated endothelial cells
+Set1_TACGGGCGTTGGTGGA-1	Tumor-associated endothelial cells
+Set1_TACTCATCATACTCTT-1	Tumor-associated endothelial cells
+Set1_TACTCGCCAACACCCG-1	Tumor-associated endothelial cells
+Set1_TAGGCATTCCACGACG-1	Tumor-associated endothelial cells
+Set1_TAGGCATTCGGTGTTA-1	Tumor-associated endothelial cells
+Set1_TATTACCCAGTAAGAT-1	Tumor-associated endothelial cells
+Set1_TCACGAAAGGCTACGA-1	Tumor-associated endothelial cells
+Set1_TCAGATGAGCCGTCGT-1	Tumor-associated endothelial cells
+Set1_TCAGGTAAGGTGCTAG-1	Tumor-associated endothelial cells
+Set1_TCGCGTTAGGTGCAAC-1	Tumor-associated endothelial cells
+Set1_TCGGTAAAGTGCGATG-1	Tumor-associated endothelial cells
+Set1_TCTGGAATCTGGGCCA-1	Tumor-associated endothelial cells
+Set1_TCTTTCCCAAGCTGTT-1	Tumor-associated endothelial cells
+Set1_TCTTTCCCATTCACTT-1	Tumor-associated endothelial cells
+Set1_TGAAAGAAGTGACTCT-1	Tumor-associated endothelial cells
+Set1_TGAAAGAAGTGTTGAA-1	Tumor-associated endothelial cells
+Set1_TGACGGCTCTCGCATC-1	Tumor-associated endothelial cells
+Set1_TGACTAGAGAAGGTTT-1	Tumor-associated endothelial cells
+Set1_TGACTAGGTCTTCTCG-1	Tumor-associated endothelial cells
+Set1_TGAGAGGAGCGGCTTC-1	Tumor-associated endothelial cells
+Set1_TGCGTGGCAGTCAGCC-1	Tumor-associated endothelial cells
+Set1_TGCTACCCAGCTCGCA-1	Tumor-associated endothelial cells
+Set1_TGGACGCAGTAGCGGT-1	Tumor-associated endothelial cells
+Set1_TGGCCAGGTCAGTGGA-1	Tumor-associated endothelial cells
+Set1_TGTATTCAGCGTAATA-1	Tumor-associated endothelial cells
+Set1_TGTGTTTAGAGCTATA-1	Tumor-associated endothelial cells
+Set1_TGTTCCGCAGTGGGAT-1	Tumor-associated endothelial cells
+Set1_TTAGGCATCATATCGG-1	Tumor-associated endothelial cells
+Set1_TTATGCTCATAGAAAC-1	Tumor-associated endothelial cells
+Set1_TTCGAAGAGGAATCGC-1	Tumor-associated endothelial cells
+Set1_TTGGCAAGTCTCTCGT-1	Tumor-associated endothelial cells
+Set1_TTGGCAATCTTGGGTA-1	Tumor-associated endothelial cells
+Set1_TTGTAGGAGGATGGAA-1	Tumor-associated endothelial cells
+Set1_TTTACTGCAACACGCC-1	Tumor-associated endothelial cells
+Set1_TTTGGTTTCACTATTC-1	Tumor-associated endothelial cells
+Set1_AACCGCGCACCGAAAG-2	Tumor-associated endothelial cells
+Set1_GTCTTCGAGGGCTCTC-2	Tumor-associated endothelial cells
+Set1_AAAGCAAAGTAGCGGT-5	Tumor-associated endothelial cells
+Set1_AACTCCCTCCTAAGTG-5	Tumor-associated endothelial cells
+Set1_AACTGGTGTACATGTC-5	Tumor-associated endothelial cells
+Set1_AACTTTCGTATCACCA-5	Tumor-associated endothelial cells
+Set1_AAGGAGCTCACTGGGC-5	Tumor-associated endothelial cells
+Set1_AATCCAGCAGCTTAAC-5	Tumor-associated endothelial cells
+Set1_ACCGTAAAGCAATCTC-5	Tumor-associated endothelial cells
+Set1_ACGATGTAGATGGCGT-5	Tumor-associated endothelial cells
+Set1_ACGCAGCTCCAGAAGG-5	Tumor-associated endothelial cells
+Set1_ACGCCGAGTCGACTGC-5	Tumor-associated endothelial cells
+Set1_ACTGAGTAGGCTCTTA-5	Tumor-associated endothelial cells
+Set1_ACTGAGTCATCAGTAC-5	Tumor-associated endothelial cells
+Set1_ACTGTCCCACCCAGTG-5	Tumor-associated endothelial cells
+Set1_AGAGCTTCACACAGAG-5	Tumor-associated endothelial cells
+Set1_AGATCTGGTAAGGATT-5	Tumor-associated endothelial cells
+Set1_ATCATCTTCATGGTCA-5	Tumor-associated endothelial cells
+Set1_ATTATCCCAGGGAGAG-5	Tumor-associated endothelial cells
+Set1_CAAGGCCTCAAACCGT-5	Tumor-associated endothelial cells
+Set1_CACACCTGTGAAAGAG-5	Tumor-associated endothelial cells
+Set1_CATGGCGTCTGTTTGT-5	Tumor-associated endothelial cells
+Set1_CCAATCCTCGACCAGC-5	Tumor-associated endothelial cells
+Set1_CCGTACTCACCATCCT-5	Tumor-associated endothelial cells
+Set1_CCGTTCAAGGCAGGTT-5	Tumor-associated endothelial cells
+Set1_CCTAAAGCATGCAACT-5	Tumor-associated endothelial cells
+Set1_CCTACACTCTGGAGCC-5	Tumor-associated endothelial cells
+Set1_CCTCAGTCACGGACAA-5	Tumor-associated endothelial cells
+Set1_CCTTTCTCACACTGCG-5	Tumor-associated endothelial cells
+Set1_CGCTGGAAGTCGAGTG-5	Tumor-associated endothelial cells
+Set1_CGCTTCAGTTCAACCA-5	Tumor-associated endothelial cells
+Set1_CGGACACTCTGGTGTA-5	Tumor-associated endothelial cells
+Set1_CGTGTAATCGCGTTTC-5	Tumor-associated endothelial cells
+Set1_CGTGTCTGTACTCGCG-5	Tumor-associated endothelial cells
+Set1_CTAATGGGTACTCTCC-5	Tumor-associated endothelial cells
+Set1_CTACATTCAGTTAACC-5	Tumor-associated endothelial cells
+Set1_CTCGTCACATTCACTT-5	Tumor-associated endothelial cells
+Set1_CTCTAATAGTCCAGGA-5	Tumor-associated endothelial cells
+Set1_CTTAACTAGTTAAGTG-5	Tumor-associated endothelial cells
+Set1_CTTACCGAGTGTTTGC-5	Tumor-associated endothelial cells
+Set1_GAACGGAAGTAGATGT-5	Tumor-associated endothelial cells
+Set1_GAACGGATCTCGCTTG-5	Tumor-associated endothelial cells
+Set1_GACTAACAGTTAAGTG-5	Tumor-associated endothelial cells
+Set1_GACTACAAGACTAAGT-5	Tumor-associated endothelial cells
+Set1_GATCGCGTCCTTCAAT-5	Tumor-associated endothelial cells
+Set1_GCACTCTTCCTTGCCA-5	Tumor-associated endothelial cells
+Set1_GCTTCCAAGGAGTACC-5	Tumor-associated endothelial cells
+Set1_GGAAAGCAGCTCCTCT-5	Tumor-associated endothelial cells
+Set1_GGAAAGCTCTGCGTAA-5	Tumor-associated endothelial cells
+Set1_GGAATAAGTTAGGGTG-5	Tumor-associated endothelial cells
+Set1_GGACAGACACACATGT-5	Tumor-associated endothelial cells
+Set1_GGACGTCCATATACCG-5	Tumor-associated endothelial cells
+Set1_GTCATTTAGATCCCGC-5	Tumor-associated endothelial cells
+Set1_GTCATTTTCCAGTAGT-5	Tumor-associated endothelial cells
+Set1_GTGGGTCCAGCCACCA-5	Tumor-associated endothelial cells
+Set1_GTGGGTCGTATGCTTG-5	Tumor-associated endothelial cells
+Set1_GTGTGCGGTCTTGATG-5	Tumor-associated endothelial cells
+Set1_TACACGAGTCTACCTC-5	Tumor-associated endothelial cells
+Set1_TACGGTAGTTGCTCCT-5	Tumor-associated endothelial cells
+Set1_TACTCGCTCCCTTGCA-5	Tumor-associated endothelial cells
+Set1_TCACAAGGTAGCACGA-5	Tumor-associated endothelial cells
+Set1_TCGCGAGCATAGACTC-5	Tumor-associated endothelial cells
+Set1_TGCACCTAGAACAACT-5	Tumor-associated endothelial cells
+Set1_TTATGCTAGTTAGCGG-5	Tumor-associated endothelial cells
+Set1_TTCCCAGCAAAGGAAG-5	Tumor-associated endothelial cells
+Set1_TTCCCAGTCTGTTGAG-5	Tumor-associated endothelial cells
+Set1_TTGGAACTCAGGCCCA-5	Tumor-associated endothelial cells
+Set1_AAACCTGCACACTGCG-7	B cells
+Set1_AAACGGGGTAGCACGA-7	B cells
+Set1_AAAGATGAGCCGGTAA-7	B cells
+Set1_AAAGATGGTTCTGGTA-7	B cells
+Set1_AAAGCAAGTACCCAAT-7	B cells
+Set1_AAAGCAAGTTGGGACA-7	B cells
+Set1_AAAGTAGGTGACTACT-7	B cells
+Set1_AACCATGGTCGGCTCA-7	B cells
+Set1_AACCATGTCAACGGGA-7	B cells
+Set1_AACCGCGAGTTTAGGA-7	B cells
+Set1_AACCGCGCACACATGT-7	B cells
+Set1_AACCGCGGTACTTCTT-7	B cells
+Set1_AACGTTGCAGGAATGC-7	B cells
+Set1_AACTCTTAGGTGCTAG-7	B cells
+Set1_AACTCTTTCATGCATG-7	B cells
+Set1_AACTCTTTCTCCCTGA-7	B cells
+Set1_AACTGGTAGCTAACTC-7	B cells
+Set1_AACTTTCCAAGCGCTC-7	B cells
+Set1_AACTTTCCAGACGTAG-7	B cells
+Set1_AACTTTCGTGCTGTAT-7	B cells
+Set1_AAGACCTGTTATTCTC-7	B cells
+Set1_AAGCCGCAGCTTTGGT-7	B cells
+Set1_AAGCCGCCAGGTTTCA-7	B cells
+Set1_AAGGAGCGTGGACGAT-7	B cells
+Set1_AAGGCAGAGAGGTTGC-7	B cells
+Set1_AAGGCAGCAGATCGGA-7	B cells
+Set1_AAGTCTGGTCAAGCGA-7	B cells
+Set1_AAGTCTGTCAGGTTCA-7	B cells
+Set1_AATCCAGTCTTGCCGT-7	B cells
+Set1_AATCGGTAGATCCCAT-7	B cells
+Set1_AATCGGTGTCTCCCTA-7	B cells
+Set1_ACACCCTTCTGAGGGA-7	B cells
+Set1_ACACCGGAGCGCTCCA-7	B cells
+Set1_ACACCGGTCGTTGACA-7	B cells
+Set1_ACAGCTAAGCGTGTCC-7	B cells
+Set1_ACAGCTACACATCCGG-7	B cells
+Set1_ACATACGAGATAGCAT-7	B cells
+Set1_ACATACGAGCACCGCT-7	B cells
+Set1_ACATGGTAGAACTCGG-7	B cells
+Set1_ACCGTAAAGCTACCGC-7	B cells
+Set1_ACCGTAAGTAGGCTGA-7	B cells
+Set1_ACCGTAAGTTGACGTT-7	B cells
+Set1_ACGAGCCCAAGCTGAG-7	B cells
+Set1_ACGAGCCGTATCTGCA-7	B cells
+Set1_ACGAGGATCTGGGCCA-7	B cells
+Set1_ACGATACAGAGGGCTT-7	B cells
+Set1_ACGATGTGTTCCGGCA-7	B cells
+Set1_ACGCAGCAGACAGACC-7	B cells
+Set1_ACGCAGCGTTACAGAA-7	B cells
+Set1_ACGCCAGAGTGCGTGA-7	B cells
+Set1_ACGCCAGCAGATCCAT-7	B cells
+Set1_ACGCCAGGTGAGGGTT-7	B cells
+Set1_ACGCCAGTCGTCCGTT-7	B cells
+Set1_ACGCCGAAGCCACGTC-7	B cells
+Set1_ACGGAGAGTAAGCACG-7	B cells
+Set1_ACGGCCAAGGTACTCT-7	B cells
+Set1_ACGGCCAGTCTCTTTA-7	B cells
+Set1_ACGGGCTAGGACAGCT-7	B cells
+Set1_ACGTCAACAGGTCTCG-7	B cells
+Set1_ACGTCAACATAGTAAG-7	B cells
+Set1_ACTGAACCACTTACGA-7	B cells
+Set1_ACTGAGTCAGACAAAT-7	B cells
+Set1_ACTGAGTTCAAGATCC-7	B cells
+Set1_ACTGAGTTCATAACCG-7	B cells
+Set1_ACTGTCCGTATCACCA-7	B cells
+Set1_ACTGTCCGTTCGTGAT-7	B cells
+Set1_ACTTACTAGTGTTAGA-7	B cells
+Set1_ACTTGTTAGCCACGTC-7	B cells
+Set1_ACTTGTTAGCGTGAAC-7	B cells
+Set1_ACTTGTTTCATGCATG-7	B cells
+Set1_AGAATAGGTCTGCAAT-7	B cells
+Set1_AGAATAGTCGTTGCCT-7	B cells
+Set1_AGAGCTTTCGAACTGT-7	B cells
+Set1_AGATCTGAGCCGTCGT-7	B cells
+Set1_AGATTGCTCAGCACAT-7	B cells
+Set1_AGCAGCCCAAAGGTGC-7	B cells
+Set1_AGCAGCCTCGTGGGAA-7	B cells
+Set1_AGCCTAAAGAGGGCTT-7	B cells
+Set1_AGCCTAACAATTCCTT-7	B cells
+Set1_AGCCTAATCAAACCAC-7	B cells
+Set1_AGCGTATAGATCTGAA-7	B cells
+Set1_AGCGTCGAGTGGTCCC-7	B cells
+Set1_AGCGTCGCACTGCCAG-7	B cells
+Set1_AGCTCCTGTTACGGAG-7	B cells
+Set1_AGCTCTCCACTATCTT-7	B cells
+Set1_AGCTCTCGTGCGAAAC-7	B cells
+Set1_AGCTTGACAGGGTATG-7	B cells
+Set1_AGGCCACCATATGGTC-7	B cells
+Set1_AGGCCGTTCCGTTGCT-7	B cells
+Set1_AGGGTGAAGTTGTAGA-7	B cells
+Set1_AGGGTGAGTAGCAAAT-7	B cells
+Set1_AGGTCCGGTAAGGGAA-7	B cells
+Set1_AGGTCCGGTGTTCTTT-7	B cells
+Set1_AGTCTTTCATAGACTC-7	B cells
+Set1_AGTCTTTGTAATAGCA-7	B cells
+Set1_AGTCTTTTCGGTCCGA-7	B cells
+Set1_AGTGAGGAGTCTCGGC-7	B cells
+Set1_AGTGGGACACTCTGTC-7	B cells
+Set1_AGTGGGATCGTAGGAG-7	B cells
+Set1_AGTGGGATCTCCAGGG-7	B cells
+Set1_AGTGTCACACCTCGGA-7	B cells
+Set1_ATAAGAGCACATTTCT-7	B cells
+Set1_ATAGACCAGATGCCTT-7	B cells
+Set1_ATAGACCGTACCGTTA-7	B cells
+Set1_ATCACGAGTTGTTTGG-7	B cells
+Set1_ATCACGATCCATTCTA-7	B cells
+Set1_ATCATCTAGGTGCAAC-7	B cells
+Set1_ATCATCTCATCACGAT-7	B cells
+Set1_ATCCGAAGTGAAATCA-7	B cells
+Set1_ATCGAGTAGTAGCGGT-7	B cells
+Set1_ATCTACTTCACCTCGT-7	B cells
+Set1_ATCTGCCAGGCACATG-7	B cells
+Set1_ATGCGATTCACGATGT-7	Tumor-associated endothelial cells
+Set1_ATGGGAGGTTGTCGCG-7	B cells
+Set1_ATGTGTGTCTTGTTTG-7	B cells
+Set1_ATTACTCGTTAAGATG-7	B cells
+Set1_ATTCTACCAATCTGCA-7	B cells
+Set1_ATTCTACGTACATCCA-7	B cells
+Set1_ATTCTACGTGGAAAGA-7	B cells
+Set1_ATTGGTGAGGACACCA-7	B cells
+Set1_CAACCAACAGGTGCCT-7	B cells
+Set1_CAACCTCAGTTGAGTA-7	B cells
+Set1_CAAGATCTCCAGTATG-7	B cells
+Set1_CAAGGCCGTATGAAAC-7	B cells
+Set1_CAAGGCCTCTTTACAC-7	B cells
+Set1_CAAGTTGCATCCCATC-7	B cells
+Set1_CAAGTTGGTCAGAATA-7	B cells
+Set1_CACACAACAAAGGAAG-7	B cells
+Set1_CACACCTTCAGTGCAT-7	B cells
+Set1_CACATAGGTACAGCAG-7	B cells
+Set1_CACATTTAGTGAAGAG-7	B cells
+Set1_CACCACTGTCATGCAT-7	B cells
+Set1_CACCTTGGTACCGCTG-7	B cells
+Set1_CAGAATCCAGCATGAG-7	B cells
+Set1_CAGAATCTCCATGCTC-7	B cells
+Set1_CAGAGAGGTCTTTCAT-7	B cells
+Set1_CAGAGAGGTTCCACGG-7	B cells
+Set1_CAGATCAAGGGTCGAT-7	B cells
+Set1_CAGATCAGTAGCCTAT-7	B cells
+Set1_CAGATCAGTTAGTGGG-7	B cells
+Set1_CAGCATACAGGCTCAC-7	B cells
+Set1_CAGCATAGTTCCACAA-7	Tumor-associated endothelial cells
+Set1_CAGCTGGCAGCTGTAT-7	B cells
+Set1_CAGCTGGTCTCTTGAT-7	B cells
+Set1_CAGTCCTAGACTAAGT-7	B cells
+Set1_CATATGGGTACAGTGG-7	B cells
+Set1_CATATTCAGTACGACG-7	B cells
+Set1_CATATTCCAGAGCCAA-7	B cells
+Set1_CATATTCTCATCGGAT-7	B cells
+Set1_CATATTCTCGGTCTAA-7	B cells
+Set1_CATCAAGGTACAGTTC-7	B cells
+Set1_CATCAAGTCACAGTAC-7	B cells
+Set1_CATCAGACAATAAGCA-7	B cells
+Set1_CATCCACAGGCAGTCA-7	B cells
+Set1_CATCGAACAACACCTA-7	B cells
+Set1_CATCGGGAGACATAAC-7	B cells
+Set1_CATCGGGTCCACTGGG-7	B cells
+Set1_CATCGGGTCCATTCTA-7	B cells
+Set1_CATGACAAGACTAGGC-7	B cells
+Set1_CATGACACAGCATACT-7	B cells
+Set1_CATGCCTCAATAGAGT-7	B cells
+Set1_CATGGCGAGACTCGGA-7	B cells
+Set1_CATGGCGTCTAGCACA-7	B cells
+Set1_CATTATCAGGGAAACA-7	B cells
+Set1_CATTATCGTGCAACGA-7	B cells
+Set1_CATTATCTCTTGAGGT-7	B cells
+Set1_CATTCGCCACCTCGGA-7	B cells
+Set1_CATTCGCGTGATAAGT-7	B cells
+Set1_CATTCGCTCAGGCCCA-7	B cells
+Set1_CATTCGCTCCCAGGTG-7	B cells
+Set1_CCAATCCCACGCCAGT-7	B cells
+Set1_CCAATCCCATGACATC-7	B cells
+Set1_CCACCTACAGCTGCAC-7	B cells
+Set1_CCACCTAGTTATGTGC-7	B cells
+Set1_CCACCTATCCTCTAGC-7	B cells
+Set1_CCACGGACAAGCGTAG-7	B cells
+Set1_CCACGGAGTCCGCTGA-7	B cells
+Set1_CCACTACGTCGTGGCT-7	B cells
+Set1_CCACTACGTTGATTGC-7	B cells
+Set1_CCATGTCAGTGTACTC-7	B cells
+Set1_CCATTCGGTCCCTTGT-7	B cells
+Set1_CCCATACAGTACACCT-7	B cells
+Set1_CCCTCCTAGTACGTTC-7	B cells
+Set1_CCCTCCTTCCAATGGT-7	B cells
+Set1_CCGGGATAGCTTCGCG-7	B cells
+Set1_CCGGGATCACGTGAGA-7	B cells
+Set1_CCGGGATTCAAAGTAG-7	B cells
+Set1_CCGTACTAGAGGACGG-7	B cells
+Set1_CCGTACTGTTCGGGCT-7	B cells
+Set1_CCGTGGAAGAAGCCCA-7	B cells
+Set1_CCGTGGACACACAGAG-7	B cells
+Set1_CCGTGGAGTGCACGAA-7	B cells
+Set1_CCTAAAGTCACAGTAC-7	B cells
+Set1_CCTACACAGCTTCGCG-7	Tumor-associated endothelial cells
+Set1_CCTACACCAAACGTGG-7	B cells
+Set1_CCTACACCAGACAAGC-7	B cells
+Set1_CCTACACCATAGAAAC-7	B cells
+Set1_CCTACCATCTTTCCTC-7	B cells
+Set1_CCTAGCTAGAACTGTA-7	B cells
+Set1_CCTAGCTAGATCCCAT-7	B cells
+Set1_CCTAGCTAGCTAGCCC-7	Tumor-associated endothelial cells
+Set1_CCTAGCTCATTCTCAT-7	B cells
+Set1_CCTATTACAATGGAGC-7	B cells
+Set1_CCTATTATCTACTTAC-7	B cells
+Set1_CCTCAGTCAGCCTTGG-7	B cells
+Set1_CCTCAGTGTAGAGGAA-7	B cells
+Set1_CCTCAGTGTTACCGAT-7	B cells
+Set1_CCTCTGACAAAGGTGC-7	B cells
+Set1_CCTCTGACAAGTTGTC-7	B cells
+Set1_CCTCTGATCTGCAGTA-7	B cells
+Set1_CCTTACGAGAGTAATC-7	B cells
+Set1_CCTTCGAGTTACAGAA-7	B cells
+Set1_CCTTTCTAGTGTACTC-7	B cells
+Set1_CCTTTCTTCCTCGCAT-7	B cells
+Set1_CGAACATAGCTGGAAC-7	B cells
+Set1_CGAATGTAGCGTCTAT-7	B cells
+Set1_CGAATGTGTTCCGTCT-7	B cells
+Set1_CGAATGTTCAGTGCAT-7	B cells
+Set1_CGACCTTAGGCTCATT-7	B cells
+Set1_CGACCTTCAGACAAGC-7	B cells
+Set1_CGAGAAGGTTATGTGC-7	B cells
+Set1_CGATCGGGTCAGCTAT-7	B cells
+Set1_CGATGGCCAGGAATCG-7	B cells
+Set1_CGATGGCGTGGCAAAC-7	B cells
+Set1_CGATTGAGTTCGTGAT-7	B cells
+Set1_CGATTGATCTTGCCGT-7	B cells
+Set1_CGCCAAGTCAGTTGAC-7	B cells
+Set1_CGCGGTATCACGACTA-7	B cells
+Set1_CGCTATCTCACTGGGC-7	B cells
+Set1_CGCTGGAGTACGCTGC-7	B cells
+Set1_CGCTTCAAGGGTATCG-7	B cells
+Set1_CGGACACTCACGGTTA-7	B cells
+Set1_CGGACGTCAGCTGCTG-7	B cells
+Set1_CGGACGTTCTTACCTA-7	B cells
+Set1_CGGACTGGTGAGCGAT-7	B cells
+Set1_CGGAGTCGTTTAAGCC-7	B cells
+Set1_CGGTTAAAGCACCGCT-7	B cells
+Set1_CGGTTAACAAAGGAAG-7	B cells
+Set1_CGGTTAAGTAATAGCA-7	B cells
+Set1_CGTAGGCGTCAGAGGT-7	B cells
+Set1_CGTCCATCAGGATCGA-7	B cells
+Set1_CGTCCATTCCCACTTG-7	B cells
+Set1_CGTGAGCGTCGGCACT-7	B cells
+Set1_CGTGTAAGTACTTAGC-7	B cells
+Set1_CGTTCTGAGCGTTGCC-7	B cells
+Set1_CGTTCTGCAATAGAGT-7	B cells
+Set1_CGTTCTGTCGAACGGA-7	B cells
+Set1_CTAACTTAGCAACGGT-7	B cells
+Set1_CTAACTTTCGTTGCCT-7	B cells
+Set1_CTAATGGTCGTTTGCC-7	B cells
+Set1_CTAATGGTCTAACCGA-7	B cells
+Set1_CTACACCCAAGCGAGT-7	B cells
+Set1_CTACACCGTCCATGAT-7	B cells
+Set1_CTACATTCACTTACGA-7	B cells
+Set1_CTACATTCATGACATC-7	B cells
+Set1_CTACCCAAGAACAACT-7	B cells
+Set1_CTACCCACACATGACT-7	B cells
+Set1_CTACCCACACCGAAAG-7	B cells
+Set1_CTACGTCAGAGCTTCT-7	B cells
+Set1_CTACGTCCATGCCTTC-7	B cells
+Set1_CTACGTCTCGGCTACG-7	B cells
+Set1_CTAGTGATCCTCGCAT-7	B cells
+Set1_CTAGTGATCGGTTCGG-7	B cells
+Set1_CTAGTGATCTCTGTCG-7	B cells
+Set1_CTCAGAACATCGACGC-7	B cells
+Set1_CTCAGAATCACTTATC-7	B cells
+Set1_CTCGGAGCACCAACCG-7	B cells
+Set1_CTCGGAGGTTGTCGCG-7	B cells
+Set1_CTCGGGAAGCCGCCTA-7	Tumor-associated endothelial cells
+Set1_CTCGTACTCCTGTAGA-7	B cells
+Set1_CTCGTACTCTGAGTGT-7	B cells
+Set1_CTCGTCAGTATCAGTC-7	B cells
+Set1_CTCTAATAGTGCCAGA-7	B cells
+Set1_CTGAAACCAATGCCAT-7	B cells
+Set1_CTGAAACGTACCGTAT-7	B cells
+Set1_CTGAAGTCATACTACG-7	B cells
+Set1_CTGAAGTTCTCACATT-7	B cells
+Set1_CTGCTGTAGAAGCCCA-7	B cells
+Set1_CTGCTGTCATGGTAGG-7	B cells
+Set1_CTGCTGTGTTCAGCGC-7	B cells
+Set1_CTGGTCTAGGACAGAA-7	B cells
+Set1_CTGGTCTAGGCACATG-7	B cells
+Set1_CTGGTCTTCCAGAAGG-7	B cells
+Set1_CTGTGCTAGTGGGTTG-7	B cells
+Set1_CTGTTTACACCAGGCT-7	B cells
+Set1_CTGTTTATCTGTCTAT-7	B cells
+Set1_CTTAACTAGTGTTGAA-7	B cells
+Set1_CTTAACTCATGCAACT-7	B cells
+Set1_CTTAACTTCGAGCCCA-7	B cells
+Set1_CTTACCGTCACAGGCC-7	B cells
+Set1_CTTAGGACATGTAAGA-7	B cells
+Set1_CTTAGGAGTTTGACAC-7	B cells
+Set1_CTTGGCTAGGGTGTGT-7	Tumor-associated endothelial cells
+Set1_CTTGGCTGTCTAGCCG-7	B cells
+Set1_GAAACTCCAGGCTGAA-7	B cells
+Set1_GAAATGATCAGTACGT-7	B cells
+Set1_GAACCTAGTCATATCG-7	B cells
+Set1_GAACGGAAGGCTACGA-7	B cells
+Set1_GAACGGAAGTGAACAT-7	B cells
+Set1_GAAGCAGCACAAGTAA-7	B cells
+Set1_GAAGCAGTCCAAAGTC-7	B cells
+Set1_GAATGAAAGCGCTTAT-7	B cells
+Set1_GACCAATAGGGCATGT-7	B cells
+Set1_GACCAATAGTACACCT-7	B cells
+Set1_GACCAATTCCACTCCA-7	B cells
+Set1_GACCTGGAGGTGATTA-7	B cells
+Set1_GACGCGTGTGTGGTTT-7	B cells
+Set1_GACGGCTCACCGATAT-7	B cells
+Set1_GACGTGCAGTTGTCGT-7	B cells
+Set1_GACTAACAGGCTACGA-7	B cells
+Set1_GACTAACTCGCCTGTT-7	B cells
+Set1_GACTACACACTAAGTC-7	B cells
+Set1_GACTACAGTACCGGCT-7	B cells
+Set1_GACTGCGAGCAAATCA-7	B cells
+Set1_GACTGCGCAGATTGCT-7	B cells
+Set1_GACTGCGTCAACACCA-7	B cells
+Set1_GAGGTGAAGTGCGTGA-7	B cells
+Set1_GAGGTGATCAGTACGT-7	B cells
+Set1_GAGTCCGCAGGGTACA-7	B cells
+Set1_GAGTCCGTCACTCCTG-7	B cells
+Set1_GAGTCCGTCATCACCC-7	B cells
+Set1_GATCGATAGCAGATCG-7	B cells
+Set1_GATCGCGCAAGTAGTA-7	B cells
+Set1_GATCGTACACAGACTT-7	B cells
+Set1_GATCGTACAGCTGTAT-7	B cells
+Set1_GATCTAGGTCCGAACC-7	B cells
+Set1_GATGAGGTCACAAACC-7	B cells
+Set1_GATGAGGTCATGTAGC-7	B cells
+Set1_GATTCAGGTAGTACCT-7	B cells
+Set1_GCAATCAGTCAGCTAT-7	B cells
+Set1_GCAATCAGTCCTGCTT-7	B cells
+Set1_GCACATATCTGGCGAC-7	B cells
+Set1_GCAGCCACACCCATGG-7	B cells
+Set1_GCAGCCAGTCACCTAA-7	B cells
+Set1_GCATACAAGGCTATCT-7	Tumor-associated endothelial cells
+Set1_GCATACACAGCGATCC-7	B cells
+Set1_GCATGATTCCGCGTTT-7	B cells
+Set1_GCATGCGAGGCTACGA-7	B cells
+Set1_GCATGCGAGTGTACCT-7	B cells
+Set1_GCATGTAAGACCTAGG-7	B cells
+Set1_GCATGTAAGTACGCCC-7	B cells
+Set1_GCATGTACACGCCAGT-7	B cells
+Set1_GCCAAATAGGCTACGA-7	Tumor-associated endothelial cells
+Set1_GCCAAATCAGGGTTAG-7	B cells
+Set1_GCCAAATGTCTCACCT-7	B cells
+Set1_GCCAAATTCATGCAAC-7	B cells
+Set1_GCCTCTACATGACATC-7	B cells
+Set1_GCGAGAAGTGTTCTTT-7	B cells
+Set1_GCGCAACGTAAATACG-7	B cells
+Set1_GCGCAACGTGTGTGCC-7	B cells
+Set1_GCGCCAAGTGACTACT-7	B cells
+Set1_GCGCGATCAACGATGG-7	B cells
+Set1_GCGCGATCACAGGTTT-7	B cells
+Set1_GCGCGATTCCTGCTTG-7	B cells
+Set1_GCGGGTTGTAGCTAAA-7	B cells
+Set1_GCTCCTATCTATGTGG-7	B cells
+Set1_GCTCCTATCTGTCAAG-7	B cells
+Set1_GCTCTGTGTTCGAATC-7	B cells
+Set1_GCTGCAGCATGAACCT-7	Tumor-associated endothelial cells
+Set1_GCTGCAGTCTGCGGCA-7	B cells
+Set1_GCTGCAGTCTTGTCAT-7	B cells
+Set1_GCTGCGAAGGTAGCCA-7	B cells
+Set1_GCTGCTTTCTTGTATC-7	B cells
+Set1_GCTGGGTGTACATCCA-7	B cells
+Set1_GCTGGGTGTGATGCCC-7	B cells
+Set1_GCTGGGTTCTGCGTAA-7	B cells
+Set1_GCTTCCACAGGAATGC-7	B cells
+Set1_GCTTGAAGTCTAGTCA-7	B cells
+Set1_GCTTGAAGTGGACGAT-7	B cells
+Set1_GGAAAGCAGCTGATAA-7	B cells
+Set1_GGAAAGCTCCTCAACC-7	B cells
+Set1_GGAAAGCTCGCGTTTC-7	B cells
+Set1_GGAACTTAGAAGGCCT-7	B cells
+Set1_GGAATAAGTCCCGACA-7	B cells
+Set1_GGAATAATCTAACTCT-7	B cells
+Set1_GGACAAGAGCGCTTAT-7	B cells
+Set1_GGACAAGAGTGAAGTT-7	B cells
+Set1_GGACAGAAGAGCTTCT-7	B cells
+Set1_GGACAGAGTCGCGTGT-7	B cells
+Set1_GGACAGATCCTTTCGG-7	B cells
+Set1_GGACATTTCTGCTGCT-7	B cells
+Set1_GGATGTTGTCGGCTCA-7	B cells
+Set1_GGATGTTTCGCGGATC-7	B cells
+Set1_GGATGTTTCTACGAGT-7	B cells
+Set1_GGATTACTCAGAAATG-7	B cells
+Set1_GGCAATTAGCCATCGC-7	B cells
+Set1_GGCCGATGTTATCGGT-7	B cells
+Set1_GGCCGATTCCTAGGGC-7	B cells
+Set1_GGCGTGTCAATAGAGT-7	B cells
+Set1_GGCGTGTCACGAAATA-7	B cells
+Set1_GGCGTGTTCTACTATC-7	B cells
+Set1_GGCTCGATCTTGTTTG-7	B cells
+Set1_GGCTGGTAGGGTCTCC-7	B cells
+Set1_GGCTGGTGTGTTGAGG-7	B cells
+Set1_GGGAATGAGTACCGGA-7	B cells
+Set1_GGGAATGTCAGATAAG-7	B cells
+Set1_GGGACCTAGACGCACA-7	B cells
+Set1_GGGACCTCACAGCGTC-7	B cells
+Set1_GGGATGAAGCTTTGGT-7	B cells
+Set1_GGGATGATCTTCAACT-7	B cells
+Set1_GGGCACTGTTCCACAA-7	B cells
+Set1_GGGCATCTCGGCCGAT-7	B cells
+Set1_GGGTCTGAGGCGATAC-7	B cells
+Set1_GGTATTGAGCTAAACA-7	B cells
+Set1_GGTATTGTCCAAGTAC-7	B cells
+Set1_GGTGAAGCAGGAATCG-7	B cells
+Set1_GGTGCGTGTTAGATGA-7	B cells
+Set1_GGTGTTAGTAAGTGGC-7	B cells
+Set1_GTAACGTGTCCAACTA-7	B cells
+Set1_GTAACGTTCAACACGT-7	B cells
+Set1_GTAACGTTCATGTGGT-7	B cells
+Set1_GTAACTGAGAATTGTG-7	B cells
+Set1_GTAACTGTCCGTTGCT-7	B cells
+Set1_GTACTCCCACTCGACG-7	B cells
+Set1_GTACTCCGTCGACTAT-7	B cells
+Set1_GTACTCCGTCGCGGTT-7	B cells
+Set1_GTACTTTCAAACAACA-7	B cells
+Set1_GTACTTTCACCAACCG-7	B cells
+Set1_GTACTTTCATACCATG-7	B cells
+Set1_GTAGGCCGTAGTGAAT-7	B cells
+Set1_GTATCTTAGTGTGGCA-7	B cells
+Set1_GTATCTTGTCTAGCGC-7	B cells
+Set1_GTATTCTCACGACTCG-7	B cells
+Set1_GTATTCTCATTGAGCT-7	Tumor-associated endothelial cells
+Set1_GTATTCTGTATGAATG-7	B cells
+Set1_GTATTCTGTCTAGAGG-7	B cells
+Set1_GTCACAACACCTGGTG-7	B cells
+Set1_GTCACGGGTCCTGCTT-7	B cells
+Set1_GTCATTTCAACACGCC-7	B cells
+Set1_GTCATTTGTGATAAAC-7	B cells
+Set1_GTCCTCAAGCCACGCT-7	B cells
+Set1_GTCCTCACAGCGATCC-7	B cells
+Set1_GTCGGGTCAGGGCATA-7	B cells
+Set1_GTCGGGTGTGGGTATG-7	B cells
+Set1_GTCTCGTTCAGCATGT-7	B cells
+Set1_GTCTTCGGTCACACGC-7	B cells
+Set1_GTGAAGGCAGCGTTCG-7	B cells
+Set1_GTGAAGGTCACATACG-7	B cells
+Set1_GTGCAGCAGCGATTCT-7	B cells
+Set1_GTGCAGCAGGAGTAGA-7	B cells
+Set1_GTGCAGCCACTTACGA-7	B cells
+Set1_GTGCAGCTCTTCCTTC-7	B cells
+Set1_GTGCATAGTACTCAAC-7	B cells
+Set1_GTGCGGTCATTGCGGC-7	B cells
+Set1_GTGCTTCTCCCATTAT-7	B cells
+Set1_GTGTGCGAGATATGCA-7	B cells
+Set1_GTGTGCGAGCCAACAG-7	B cells
+Set1_GTGTGCGGTAGCTGCC-7	B cells
+Set1_GTGTGCGGTCGTGGCT-7	B cells
+Set1_GTGTTAGCAAGTTAAG-7	B cells
+Set1_GTTAAGCCAGATGGCA-7	B cells
+Set1_GTTAAGCTCCTTGGTC-7	B cells
+Set1_GTTACAGGTTCAACCA-7	B cells
+Set1_GTTCATTGTCCCTTGT-7	B cells
+Set1_GTTCGGGGTAATAGCA-7	B cells
+Set1_GTTCGGGTCTGTCTCG-7	B cells
+Set1_GTTCTCGGTCCTAGCG-7	B cells
+Set1_GTTCTCGGTGACGGTA-7	B cells
+Set1_GTTCTCGTCTCCTATA-7	B cells
+Set1_GTTTCTAAGACATAAC-7	B cells
+Set1_GTTTCTACACTTACGA-7	B cells
+Set1_TAAACCGCAGACAAAT-7	B cells
+Set1_TAAGAGATCCTAGGGC-7	B cells
+Set1_TAAGTGCCATACGCTA-7	B cells
+Set1_TAAGTGCCATGACGGA-7	B cells
+Set1_TAAGTGCGTAAATGAC-7	B cells
+Set1_TACACGAAGATCCCGC-7	B cells
+Set1_TACACGACATCTCCCA-7	B cells
+Set1_TACGGATTCACTCTTA-7	B cells
+Set1_TACGGGCTCTTACCTA-7	B cells
+Set1_TACTCGCAGGGCACTA-7	B cells
+Set1_TACTCGCCACCATGTA-7	B cells
+Set1_TACTCGCGTCGAAAGC-7	B cells
+Set1_TACTTACCACCCATGG-7	B cells
+Set1_TACTTACCAGTAAGCG-7	B cells
+Set1_TACTTGTCACCGTTGG-7	B cells
+Set1_TACTTGTGTACATGTC-7	B cells
+Set1_TAGACCAGTCATGCAT-7	B cells
+Set1_TAGAGCTAGGGCTCTC-7	B cells
+Set1_TAGCCGGCAACTGCTA-7	B cells
+Set1_TAGGCATGTCGACTAT-7	B cells
+Set1_TAGGCATGTGGTCCGT-7	B cells
+Set1_TAGTGGTAGTTCGCAT-7	B cells
+Set1_TAGTGGTCAACTGCGC-7	B cells
+Set1_TATCAGGCAATGGACG-7	B cells
+Set1_TATCAGGGTCGCCATG-7	B cells
+Set1_TATCTCAGTTTGTTTC-7	B cells
+Set1_TATCTCATCCACGACG-7	B cells
+Set1_TATGCCCAGGATTCGG-7	Tumor-associated endothelial cells
+Set1_TCAACGACAAATACAG-7	B cells
+Set1_TCACAAGAGACTAAGT-7	B cells
+Set1_TCACAAGTCGCGTTTC-7	B cells
+Set1_TCACGAAGTCGCATAT-7	B cells
+Set1_TCAGCAACAAGGACTG-7	B cells
+Set1_TCAGCAACAGTCACTA-7	B cells
+Set1_TCAGCTCTCCTTGGTC-7	B cells
+Set1_TCAGGATAGACAGGCT-7	B cells
+Set1_TCAGGATCACATGTGT-7	B cells
+Set1_TCAGGATTCCTAGAAC-7	B cells
+Set1_TCAGGTAGTCCGAACC-7	B cells
+Set1_TCAGGTAGTCGACTGC-7	B cells
+Set1_TCATTTGGTACACCGC-7	B cells
+Set1_TCCACACAGAGGGATA-7	B cells
+Set1_TCCACACGTAGAAAGG-7	B cells
+Set1_TCCACACGTGACGCCT-7	B cells
+Set1_TCGAGGCAGTGGTCCC-7	B cells
+Set1_TCGAGGCCAGTAGAGC-7	B cells
+Set1_TCGAGGCTCGTGACAT-7	B cells
+Set1_TCGCGTTTCGCGATCG-7	B cells
+Set1_TCGTACCAGACTGGGT-7	B cells
+Set1_TCGTACCGTGTGCGTC-7	B cells
+Set1_TCTCATACAGGTGCCT-7	B cells
+Set1_TCTCTAACAGCCACCA-7	B cells
+Set1_TCTGGAATCCGTCAAA-7	B cells
+Set1_TCTTCGGTCAGTTGAC-7	B cells
+Set1_TCTTTCCAGTGAAGTT-7	B cells
+Set1_TGACGGCCAATGAATG-7	B cells
+Set1_TGACGGCCACATGTGT-7	B cells
+Set1_TGACTAGCAAGCGCTC-7	B cells
+Set1_TGACTAGCAATGGTCT-7	B cells
+Set1_TGACTTTCAGGTTTCA-7	B cells
+Set1_TGAGAGGAGAGCTGGT-7	B cells
+Set1_TGAGAGGAGATATACG-7	B cells
+Set1_TGAGAGGAGGCCATAG-7	B cells
+Set1_TGAGAGGTCTGTTTGT-7	B cells
+Set1_TGAGCCGTCATAAAGG-7	B cells
+Set1_TGAGGGAGTCTTTCAT-7	B cells
+Set1_TGCACCTGTACGCTGC-7	Tumor-associated endothelial cells
+Set1_TGCCAAACAGCCTTGG-7	B cells
+Set1_TGCCAAACATCACCCT-7	B cells
+Set1_TGCCCATTCACCGGGT-7	B cells
+Set1_TGCGCAGAGTGCAAGC-7	B cells
+Set1_TGCGGGTTCTGGTGTA-7	B cells
+Set1_TGCGTGGCAGGAATCG-7	B cells
+Set1_TGCTGCTTCGTAGATC-7	B cells
+Set1_TGGACGCAGATGCCTT-7	B cells
+Set1_TGGCTGGAGACTTTCG-7	B cells
+Set1_TGGCTGGCAACACCTA-7	B cells
+Set1_TGTATTCCACCACCAG-7	B cells
+Set1_TGTCCCAAGTATGACA-7	B cells
+Set1_TGTCCCAGTTGGTGGA-7	B cells
+Set1_TGTGGTAAGATGTGGC-7	B cells
+Set1_TGTGGTAGTATGAATG-7	B cells
+Set1_TGTGTTTAGCTAGGCA-7	B cells
+Set1_TGTGTTTGTACCGTTA-7	B cells
+Set1_TGTTCCGTCGTTGACA-7	B cells
+Set1_TGTTCCGTCTACCAGA-7	B cells
+Set1_TTAACTCAGTAGGTGC-7	B cells
+Set1_TTAACTCTCCTCAATT-7	B cells
+Set1_TTAGGACGTATCGCAT-7	B cells
+Set1_TTAGGACGTCACCCAG-7	B cells
+Set1_TTAGTTCTCGACGGAA-7	B cells
+Set1_TTCGAAGGTCAATACC-7	B cells
+Set1_TTCGGTCCACGACTCG-7	B cells
+Set1_TTCTACAAGCGTTCCG-7	B cells
+Set1_TTCTACAGTCCGACGT-7	B cells
+Set1_TTCTCAATCAAGCCTA-7	B cells
+Set1_TTCTTAGCAGAGTGTG-7	B cells
+Set1_TTGAACGAGCCCAGCT-7	B cells
+Set1_TTGAACGTCTTAGCCC-7	B cells
+Set1_TTGACTTCAGTTAACC-7	B cells
+Set1_TTGACTTTCCGCATAA-7	B cells
+Set1_TTGCCGTAGTGGGCTA-7	B cells
+Set1_TTGCCGTCAAACTGCT-7	B cells
+Set1_TTGCCGTTCCTAGAAC-7	B cells
+Set1_TTGGAACGTGTGACCC-7	B cells
+Set1_TTGGAACTCTGTCTCG-7	B cells
+Set1_TTGGCAATCCACGTGG-7	B cells
+Set1_TTTATGCCACCGTTGG-7	B cells
+Set1_TTTATGCTCGTGGACC-7	B cells
+Set1_TTTCCTCGTGGAAAGA-7	B cells
+Set1_TTTCCTCTCTCGTATT-7	B cells
+Set1_TTTGCGCTCAGTGTTG-7	B cells
+Set1_TTTGTCAGTATGAAAC-7	B cells
+Set1_TTTGTCAGTTATCGGT-7	B cells
+Set1_TTTGTCATCATTGCGA-7	B cells
+Set1_AAACGGGCAGGTCGTC-9	Tumor-associated endothelial cells
+Set1_AAAGCAAAGTAGCGGT-9	Tumor-associated endothelial cells
+Set1_AAAGCAACAACGATCT-9	Tumor-associated endothelial cells
+Set1_AAAGTAGAGAGAACAG-9	Tumor-associated endothelial cells
+Set1_AACACGTGTGATGTGG-9	Tumor-associated endothelial cells
+Set1_AACCATGCAAACGTGG-9	Tumor-associated endothelial cells
+Set1_AACGTTGTCAATCACG-9	Tumor-associated endothelial cells
+Set1_AACTCCCTCCTAAGTG-9	Tumor-associated endothelial cells
+Set1_AACTGGTGTCTAAACC-9	Tumor-associated endothelial cells
+Set1_AACTGGTGTGAAGGCT-9	Tumor-associated endothelial cells
+Set1_AACTTTCGTCTACCTC-9	Tumor-associated endothelial cells
+Set1_AAGACCTCAGCATACT-9	Tumor-associated endothelial cells
+Set1_AAGGTTCAGTCGTACT-9	Tumor-associated endothelial cells
+Set1_AAGTCTGAGTTCGCAT-9	Tumor-associated endothelial cells
+Set1_AAGTCTGGTATCTGCA-9	Tumor-associated endothelial cells
+Set1_AATCCAGGTCCAAGTT-9	Tumor-associated endothelial cells
+Set1_ACACCAAGTACCGTTA-9	Tumor-associated endothelial cells
+Set1_ACACTGAAGAGCTGGT-9	Tumor-associated endothelial cells
+Set1_ACAGCTAAGTAGATGT-9	Tumor-associated endothelial cells
+Set1_ACATACGCAGTATGCT-9	Tumor-associated endothelial cells
+Set1_ACATCAGAGACCGGAT-9	Tumor-associated endothelial cells
+Set1_ACCAGTATCAGCTCTC-9	Tumor-associated endothelial cells
+Set1_ACCGTAAAGCAATCTC-9	Tumor-associated endothelial cells
+Set1_ACCGTAATCAGTTGAC-9	Tumor-associated endothelial cells
+Set1_ACCTTTAAGTTCCACA-9	Tumor-associated endothelial cells
+Set1_ACGAGCCGTTACGGAG-9	Tumor-associated endothelial cells
+Set1_ACGAGGACAACCGCCA-9	Tumor-associated endothelial cells
+Set1_ACGAGGACAGCCAGAA-9	Tumor-associated endothelial cells
+Set1_ACGCAGCTCCAGAAGG-9	Tumor-associated endothelial cells
+Set1_ACGCCAGCATTTGCTT-9	Tumor-associated endothelial cells
+Set1_ACGCCGAGTATCTGCA-9	Tumor-associated endothelial cells
+Set1_ACGCCGAGTCGACTGC-9	Tumor-associated endothelial cells
+Set1_ACGGAGACAAACGTGG-9	Tumor-associated endothelial cells
+Set1_ACGGCCAAGTGCCAGA-9	Tumor-associated endothelial cells
+Set1_ACGTCAACATGGTCAT-9	Tumor-associated endothelial cells
+Set1_ACTATCTAGCCAGTTT-9	Tumor-associated endothelial cells
+Set1_ACTGAGTAGGCTCTTA-9	Tumor-associated endothelial cells
+Set1_ACTGAGTCATCAGTAC-9	Tumor-associated endothelial cells
+Set1_ACTGATGGTGAAAGAG-9	Tumor-associated endothelial cells
+Set1_ACTGCTCCACTCGACG-9	Tumor-associated endothelial cells
+Set1_ACTGTCCAGTAAGTAC-9	Tumor-associated endothelial cells
+Set1_ACTGTCCGTAGGCTGA-9	Tumor-associated endothelial cells
+Set1_ACTTACTAGCCAACAG-9	Tumor-associated endothelial cells
+Set1_ACTTTCAGTCCAACTA-9	Tumor-associated endothelial cells
+Set1_AGACGTTAGAAGCCCA-9	Tumor-associated endothelial cells
+Set1_AGACGTTAGCCCGAAA-9	Tumor-associated endothelial cells
+Set1_AGACGTTCACAAGCCC-9	Tumor-associated endothelial cells
+Set1_AGAGCGAAGTGGAGAA-9	Tumor-associated endothelial cells
+Set1_AGAGCTTAGTTACGGG-9	Tumor-associated endothelial cells
+Set1_AGAGCTTCACACAGAG-9	Tumor-associated endothelial cells
+Set1_AGAGCTTCATGATCCA-9	Tumor-associated endothelial cells
+Set1_AGATTGCTCAGCACAT-9	Tumor-associated endothelial cells
+Set1_AGCATACGTCCGAGTC-9	Tumor-associated endothelial cells
+Set1_AGCGTATGTACACCGC-9	Tumor-associated endothelial cells
+Set1_AGCGTCGCATCACGTA-9	Tumor-associated endothelial cells
+Set1_AGCTCCTAGTGTACCT-9	Tumor-associated endothelial cells
+Set1_AGCTCTCCACGAAACG-9	Tumor-associated endothelial cells
+Set1_AGCTTGAGTAGCGTAG-9	Tumor-associated endothelial cells
+Set1_AGCTTGATCAGTTCGA-9	Tumor-associated endothelial cells
+Set1_AGGCCACCATCCCACT-9	Tumor-associated endothelial cells
+Set1_AGGCCGTAGCGTAATA-9	Tumor-associated endothelial cells
+Set1_AGGCCGTAGTCGTACT-9	Tumor-associated endothelial cells
+Set1_AGGGAGTTCACGCGGT-9	Tumor-associated endothelial cells
+Set1_AGGTCATCACAAGACG-9	Tumor-associated endothelial cells
+Set1_AGGTCCGTCCTCAATT-9	Tumor-associated endothelial cells
+Set1_AGTGAGGAGTGTACTC-9	Tumor-associated endothelial cells
+Set1_AGTGAGGTCAGTCCCT-9	Tumor-associated endothelial cells
+Set1_AGTTGGTCACCACGTG-9	B cells
+Set1_AGTTGGTCACCGATAT-9	Tumor-associated endothelial cells
+Set1_ATCATCTTCATGGTCA-9	Tumor-associated endothelial cells
+Set1_ATCATGGTCGGATGTT-9	Tumor-associated endothelial cells
+Set1_ATCCACCAGTATCTCG-9	Tumor-associated endothelial cells
+Set1_ATCCACCGTTAAGGGC-9	Tumor-associated endothelial cells
+Set1_ATCCACCTCTTCTGGC-9	Tumor-associated endothelial cells
+Set1_ATCCGAAAGGTGATTA-9	Tumor-associated endothelial cells
+Set1_ATCGAGTCAGATAATG-9	Tumor-associated endothelial cells
+Set1_ATCTGCCCAAAGGCGT-9	B cells
+Set1_ATCTGCCGTCCAGTTA-9	Tumor-associated endothelial cells
+Set1_ATGAGGGTCTCTGAGA-9	Tumor-associated endothelial cells
+Set1_ATGCGATGTCTCAACA-9	Tumor-associated endothelial cells
+Set1_ATGGGAGAGCTGGAAC-9	Tumor-associated endothelial cells
+Set1_ATGTGTGGTTCTGTTT-9	Tumor-associated endothelial cells
+Set1_ATTATCCCAGGGAGAG-9	Tumor-associated endothelial cells
+Set1_ATTATCCGTCAATGTC-9	Tumor-associated endothelial cells
+Set1_ATTCTACAGACCTAGG-9	Tumor-associated endothelial cells
+Set1_ATTCTACGTCCTCTTG-9	Tumor-associated endothelial cells
+Set1_ATTGGACCAAGTAATG-9	Tumor-associated endothelial cells
+Set1_ATTTCTGGTAAAGGAG-9	Tumor-associated endothelial cells
+Set1_ATTTCTGTCATGTGGT-9	Tumor-associated endothelial cells
+Set1_CAACCAAGTCCAGTGC-9	Tumor-associated endothelial cells
+Set1_CAACCTCTCCAGTAGT-9	Tumor-associated endothelial cells
+Set1_CAAGATCTCCCTAACC-9	Tumor-associated endothelial cells
+Set1_CAAGGCCTCAAACCGT-9	Tumor-associated endothelial cells
+Set1_CAAGGCCTCCCAACGG-9	Tumor-associated endothelial cells
+Set1_CAAGTTGAGTGGACGT-9	Tumor-associated endothelial cells
+Set1_CAAGTTGGTATCACCA-9	Tumor-associated endothelial cells
+Set1_CAAGTTGTCATCACCC-9	Tumor-associated endothelial cells
+Set1_CACACAACATGGGACA-9	Tumor-associated endothelial cells
+Set1_CACACCTAGGTCGGAT-9	Tumor-associated endothelial cells
+Set1_CACACCTGTCTGCGGT-9	Tumor-associated endothelial cells
+Set1_CACACCTGTGAAAGAG-9	Tumor-associated endothelial cells
+Set1_CACACTCGTCTTCTCG-9	Tumor-associated endothelial cells
+Set1_CACACTCTCTATCCCG-9	Tumor-associated endothelial cells
+Set1_CACATAGGTTATGCGT-9	Tumor-associated endothelial cells
+Set1_CACATTTCAGCCTTTC-9	Tumor-associated endothelial cells
+Set1_CACATTTTCGGATGGA-9	Tumor-associated endothelial cells
+Set1_CACCAGGTCTCAACTT-9	Tumor-associated endothelial cells
+Set1_CAGAATCTCGGAAACG-9	Tumor-associated endothelial cells
+Set1_CAGAGAGAGGTAAACT-9	Tumor-associated endothelial cells
+Set1_CAGATCATCTCGCATC-9	Tumor-associated endothelial cells
+Set1_CAGCAGCCAATCTGCA-9	Tumor-associated endothelial cells
+Set1_CAGCATAGTCCATCCT-9	Tumor-associated endothelial cells
+Set1_CAGCGACAGTCGCCGT-9	Tumor-associated endothelial cells
+Set1_CAGTAACTCTTGCCGT-9	Tumor-associated endothelial cells
+Set1_CATCAAGCAGCATGAG-9	Tumor-associated endothelial cells
+Set1_CATCAGAGTGTAAGTA-9	Tumor-associated endothelial cells
+Set1_CATGACACAAGCCGTC-9	Tumor-associated endothelial cells
+Set1_CATGGCGTCACCACCT-9	Tumor-associated endothelial cells
+Set1_CATGGCGTCAGGCGAA-9	Tumor-associated endothelial cells
+Set1_CATTCGCTCGAACGGA-9	Tumor-associated endothelial cells
+Set1_CCACTACCACAGGAGT-9	Tumor-associated endothelial cells
+Set1_CCAGCGATCATATCGG-9	Tumor-associated endothelial cells
+Set1_CCATTCGTCTCCGGTT-9	Tumor-associated endothelial cells
+Set1_CCCAATCTCTCCAGGG-9	Tumor-associated endothelial cells
+Set1_CCCAGTTGTCTCATCC-9	Tumor-associated endothelial cells
+Set1_CCCATACGTTCATGGT-9	Tumor-associated endothelial cells
+Set1_CCGGGATGTCCTGCTT-9	Tumor-associated endothelial cells
+Set1_CCGGGATTCTTAGAGC-9	Tumor-associated endothelial cells
+Set1_CCGTACTTCCGTAGGC-9	Tumor-associated endothelial cells
+Set1_CCGTGGACACCATGTA-9	Tumor-associated endothelial cells
+Set1_CCTACACTCTGGAGCC-9	Tumor-associated endothelial cells
+Set1_CCTACACTCTTAGAGC-9	Tumor-associated endothelial cells
+Set1_CCTACCAGTATGAATG-9	Tumor-associated endothelial cells
+Set1_CCTACCAGTGACGCCT-9	Tumor-associated endothelial cells
+Set1_CCTCAGTCACGGACAA-9	Tumor-associated endothelial cells
+Set1_CCTCAGTGTGCGATAG-9	Tumor-associated endothelial cells
+Set1_CCTCTGACATGTCGAT-9	Tumor-associated endothelial cells
+Set1_CCTCTGATCATGCATG-9	Tumor-associated endothelial cells
+Set1_CCTTCGACAACCGCCA-9	Tumor-associated endothelial cells
+Set1_CCTTCGATCATCTGCC-9	Tumor-associated endothelial cells
+Set1_CGACCTTTCGTTTATC-9	Tumor-associated endothelial cells
+Set1_CGACTTCCAATCTGCA-9	Tumor-associated endothelial cells
+Set1_CGAGAAGAGCTCAACT-9	Tumor-associated endothelial cells
+Set1_CGAGAAGGTACCCAAT-9	Tumor-associated endothelial cells
+Set1_CGAGAAGGTAGGCATG-9	Tumor-associated endothelial cells
+Set1_CGAGAAGTCTTCAACT-9	Tumor-associated endothelial cells
+Set1_CGATCGGGTCCTCCAT-9	Tumor-associated endothelial cells
+Set1_CGATGGCCAGCTGTTA-9	Tumor-associated endothelial cells
+Set1_CGATGGCCATTCGACA-9	Tumor-associated endothelial cells
+Set1_CGATGTATCGCGGATC-9	Tumor-associated endothelial cells
+Set1_CGCCAAGTCCAATGGT-9	Tumor-associated endothelial cells
+Set1_CGCGGTAAGTTAAGTG-9	Tumor-associated endothelial cells
+Set1_CGCGGTACACAAGCCC-9	Tumor-associated endothelial cells
+Set1_CGCGGTAGTCTCTCGT-9	Tumor-associated endothelial cells
+Set1_CGCGTTTAGGCAGTCA-9	Tumor-associated endothelial cells
+Set1_CGCTGGACACGAAGCA-9	Tumor-associated endothelial cells
+Set1_CGCTGGATCAGGCCCA-9	Tumor-associated endothelial cells
+Set1_CGCTGGATCCTTAATC-9	Tumor-associated endothelial cells
+Set1_CGCTTCAGTTCAACCA-9	Tumor-associated endothelial cells
+Set1_CGGACACTCTGGTGTA-9	Tumor-associated endothelial cells
+Set1_CGGACGTAGGATATAC-9	Tumor-associated endothelial cells
+Set1_CGGACTGAGAGAACAG-9	Tumor-associated endothelial cells
+Set1_CGGGTCAGTCGAATCT-9	Tumor-associated endothelial cells
+Set1_CGGGTCAGTTTGGGCC-9	Tumor-associated endothelial cells
+Set1_CGGGTCATCATCATTC-9	Tumor-associated endothelial cells
+Set1_CGGTTAAAGTTGTAGA-9	Tumor-associated endothelial cells
+Set1_CGTAGGCAGATAGGAG-9	Tumor-associated endothelial cells
+Set1_CGTCACTAGGGAAACA-9	Tumor-associated endothelial cells
+Set1_CGTCACTGTCTTCTCG-9	Tumor-associated endothelial cells
+Set1_CGTCACTTCGCCATAA-9	Tumor-associated endothelial cells
+Set1_CGTCCATAGGGCATGT-9	Tumor-associated endothelial cells
+Set1_CGTCCATCATCCTTGC-9	Tumor-associated endothelial cells
+Set1_CGTCCATTCTTTAGTC-9	Tumor-associated endothelial cells
+Set1_CGTGAGCGTGGTGTAG-9	Tumor-associated endothelial cells
+Set1_CGTTAGAAGCGTAGTG-9	Tumor-associated endothelial cells
+Set1_CGTTGGGAGATGTGGC-9	Tumor-associated endothelial cells
+Set1_CGTTGGGAGTGGTAAT-9	Tumor-associated endothelial cells
+Set1_CGTTGGGCACGTCTCT-9	Tumor-associated endothelial cells
+Set1_CTAACTTGTACTTAGC-9	Tumor-associated endothelial cells
+Set1_CTAAGACAGTTGTCGT-9	Tumor-associated endothelial cells
+Set1_CTAATGGCATCGACGC-9	Tumor-associated endothelial cells
+Set1_CTAATGGGTACTCTCC-9	Tumor-associated endothelial cells
+Set1_CTACGTCCAGCCACCA-9	Tumor-associated endothelial cells
+Set1_CTACGTCGTCGCATAT-9	Tumor-associated endothelial cells
+Set1_CTAGAGTTCCTATGTT-9	Tumor-associated endothelial cells
+Set1_CTAGCCTAGTAACCCT-9	Tumor-associated endothelial cells
+Set1_CTCCTAGCAAGGGTCA-9	Tumor-associated endothelial cells
+Set1_CTCGAGGCACCAGTTA-9	Tumor-associated endothelial cells
+Set1_CTCGAGGGTCCATCCT-9	Tumor-associated endothelial cells
+Set1_CTCGGAGGTACTTAGC-9	Tumor-associated endothelial cells
+Set1_CTCGTACGTACTTAGC-9	Tumor-associated endothelial cells
+Set1_CTCGTCACATAGAAAC-9	Tumor-associated endothelial cells
+Set1_CTCGTCACATTCACTT-9	Tumor-associated endothelial cells
+Set1_CTCGTCAGTGCTAGCC-9	Tumor-associated endothelial cells
+Set1_CTCGTCATCGCCGTGA-9	Tumor-associated endothelial cells
+Set1_CTCTAATAGAGCTTCT-9	Tumor-associated endothelial cells
+Set1_CTCTAATGTACAGTTC-9	Tumor-associated endothelial cells
+Set1_CTCTGGTGTCATGCAT-9	Tumor-associated endothelial cells
+Set1_CTGAAACAGCTAAACA-9	Tumor-associated endothelial cells
+Set1_CTGAAACGTCAGAGGT-9	Tumor-associated endothelial cells
+Set1_CTGAAACTCGTTTATC-9	Tumor-associated endothelial cells
+Set1_CTGATAGTCGTTTATC-9	Tumor-associated endothelial cells
+Set1_CTGCCTATCATGTGGT-9	Tumor-associated endothelial cells
+Set1_CTTAACTAGTTAAGTG-9	Tumor-associated endothelial cells
+Set1_CTTACCGGTATGAATG-9	Tumor-associated endothelial cells
+Set1_CTTACCGTCAACGAAA-9	Tumor-associated endothelial cells
+Set1_GAACCTAGTTCCCTTG-9	Tumor-associated endothelial cells
+Set1_GAACGGATCAGGCAAG-9	Tumor-associated endothelial cells
+Set1_GACAGAGTCATAACCG-9	Tumor-associated endothelial cells
+Set1_GACCTGGGTCATATCG-9	Tumor-associated endothelial cells
+Set1_GACGGCTCAATGGAAT-9	Tumor-associated endothelial cells
+Set1_GACGTTAGTTGCGTTA-9	Tumor-associated endothelial cells
+Set1_GACGTTATCCAAACAC-9	Tumor-associated endothelial cells
+Set1_GACTAACTCCATGCTC-9	Tumor-associated endothelial cells
+Set1_GACTAACTCTCTGTCG-9	Tumor-associated endothelial cells
+Set1_GACTACAAGACTAAGT-9	Tumor-associated endothelial cells
+Set1_GACTACAGTCACTTCC-9	Tumor-associated endothelial cells
+Set1_GACTGCGAGCTGCAAG-9	Tumor-associated endothelial cells
+Set1_GAGCAGACAAGCCGTC-9	Tumor-associated endothelial cells
+Set1_GAGCAGACACGGATAG-9	Tumor-associated endothelial cells
+Set1_GAGTCCGGTCCTCCAT-9	Tumor-associated endothelial cells
+Set1_GAGTCCGTCTATCCCG-9	Tumor-associated endothelial cells
+Set1_GAGTCCGTCTCCAGGG-9	Tumor-associated endothelial cells
+Set1_GATCGATTCGCCCTTA-9	Tumor-associated endothelial cells
+Set1_GATGAGGAGAATCTCC-9	Tumor-associated endothelial cells
+Set1_GATGAGGCACCCATTC-9	Tumor-associated endothelial cells
+Set1_GATGAGGTCTCGATGA-9	Tumor-associated endothelial cells
+Set1_GATGCTAAGTTACGGG-9	Tumor-associated endothelial cells
+Set1_GATTCAGAGACTGTAA-9	Tumor-associated endothelial cells
+Set1_GCAAACTCACATGACT-9	Tumor-associated endothelial cells
+Set1_GCACTCTTCCTTGCCA-9	Tumor-associated endothelial cells
+Set1_GCAGCCATCAATACCG-9	Tumor-associated endothelial cells
+Set1_GCATGATAGGCATGGT-9	Tumor-associated endothelial cells
+Set1_GCATGCGTCTTAACCT-9	Tumor-associated endothelial cells
+Set1_GCATGTAGTAAACCTC-9	Tumor-associated endothelial cells
+Set1_GCATGTATCTCGGACG-9	Tumor-associated endothelial cells
+Set1_GCGACCACAAAGTCAA-9	Tumor-associated endothelial cells
+Set1_GCGACCACATTGCGGC-9	Tumor-associated endothelial cells
+Set1_GCGAGAAAGCGTTTAC-9	Tumor-associated endothelial cells
+Set1_GCGAGAACACCAGGCT-9	Tumor-associated endothelial cells
+Set1_GCGCGATCATCCCATC-9	Tumor-associated endothelial cells
+Set1_GCTGCAGAGCAAATCA-9	Tumor-associated endothelial cells
+Set1_GCTGCAGGTTGCTCCT-9	Tumor-associated endothelial cells
+Set1_GCTGCAGTCGTTACGA-9	Tumor-associated endothelial cells
+Set1_GCTGCGACACGCATCG-9	Tumor-associated endothelial cells
+Set1_GCTGCTTCACGCATCG-9	Tumor-associated endothelial cells
+Set1_GCTGGGTAGGGTTCCC-9	Tumor-associated endothelial cells
+Set1_GCTTGAACAATGTTGC-9	Tumor-associated endothelial cells
+Set1_GGAAAGCAGCTCCTCT-9	Tumor-associated endothelial cells
+Set1_GGAAAGCGTAATTGGA-9	Tumor-associated endothelial cells
+Set1_GGAAAGCTCTGCGTAA-9	Tumor-associated endothelial cells
+Set1_GGAACTTTCTGTCTCG-9	Tumor-associated endothelial cells
+Set1_GGAATAAGTTAGGGTG-9	Tumor-associated endothelial cells
+Set1_GGAATAAGTTGATTGC-9	Tumor-associated endothelial cells
+Set1_GGACAGACACACATGT-9	Tumor-associated endothelial cells
+Set1_GGACATTGTCTAGTCA-9	Tumor-associated endothelial cells
+Set1_GGACGTCCATATACCG-9	Tumor-associated endothelial cells
+Set1_GGAGCAAAGACGCTTT-9	Tumor-associated endothelial cells
+Set1_GGAGCAACAGCTGGCT-9	Tumor-associated endothelial cells
+Set1_GGATTACGTTCGTCTC-9	Tumor-associated endothelial cells
+Set1_GGCAATTAGTTGAGTA-9	Tumor-associated endothelial cells
+Set1_GGCGACTAGAATGTTG-9	Tumor-associated endothelial cells
+Set1_GGCGACTTCAGCAACT-9	Tumor-associated endothelial cells
+Set1_GGCTCGATCCTCAACC-9	Tumor-associated endothelial cells
+Set1_GGCTGGTCACATGTGT-9	Tumor-associated endothelial cells
+Set1_GGGAATGCATAGGATA-9	Tumor-associated endothelial cells
+Set1_GGGAGATGTTGTGGAG-9	Tumor-associated endothelial cells
+Set1_GGGATGAAGTTTAGGA-9	Tumor-associated endothelial cells
+Set1_GGGATGATCACCTCGT-9	Tumor-associated endothelial cells
+Set1_GGGCACTAGCTAGCCC-9	Tumor-associated endothelial cells
+Set1_GGGCATCTCTTGCAAG-9	Tumor-associated endothelial cells
+Set1_GGGTCTGAGCTCTCGG-9	Tumor-associated endothelial cells
+Set1_GGTGAAGCAGCCTATA-9	Tumor-associated endothelial cells
+Set1_GGTGCGTGTGTGCGTC-9	Tumor-associated endothelial cells
+Set1_GGTGCGTTCTGGCGAC-9	Tumor-associated endothelial cells
+Set1_GTAACTGTCGGATGGA-9	Tumor-associated endothelial cells
+Set1_GTACTTTTCTCAAGTG-9	Tumor-associated endothelial cells
+Set1_GTATCTTTCAGGCAAG-9	Tumor-associated endothelial cells
+Set1_GTATTCTAGCTACCTA-9	Tumor-associated endothelial cells
+Set1_GTATTCTAGGACACCA-9	Tumor-associated endothelial cells
+Set1_GTATTCTGTCCTAGCG-9	Tumor-associated endothelial cells
+Set1_GTCATTTGTGACAAAT-9	Tumor-associated endothelial cells
+Set1_GTCATTTGTTATCCGA-9	Tumor-associated endothelial cells
+Set1_GTCATTTTCCAGTAGT-9	Tumor-associated endothelial cells
+Set1_GTCCTCAAGTCCATAC-9	Tumor-associated endothelial cells
+Set1_GTCTTCGAGAGGTAGA-9	Tumor-associated endothelial cells
+Set1_GTCTTCGTCATCATTC-9	Tumor-associated endothelial cells
+Set1_GTGAAGGCAAGCCCAC-9	Tumor-associated endothelial cells
+Set1_GTGCAGCCAATGGAGC-9	Tumor-associated endothelial cells
+Set1_GTGCAGCTCTGAGTGT-9	Tumor-associated endothelial cells
+Set1_GTGCGGTAGGTGATTA-9	Tumor-associated endothelial cells
+Set1_GTGGGTCCAGGTGCCT-9	Tumor-associated endothelial cells
+Set1_GTGGGTCGTTCCGGCA-9	Tumor-associated endothelial cells
+Set1_GTGTGCGGTAAGTGTA-9	Tumor-associated endothelial cells
+Set1_GTTACAGGTGGGTATG-9	Tumor-associated endothelial cells
+Set1_GTTCATTGTCGGCATC-9	Tumor-associated endothelial cells
+Set1_GTTCATTGTCTAGCCG-9	Tumor-associated endothelial cells
+Set1_GTTCTCGCACGGATAG-9	Tumor-associated endothelial cells
+Set1_GTTCTCGCAGATTGCT-9	Tumor-associated endothelial cells
+Set1_TAAACCGAGTCAAGGC-9	Tumor-associated endothelial cells
+Set1_TAAGCGTAGAAACGCC-9	Tumor-associated endothelial cells
+Set1_TAAGCGTCAGCCTGTG-9	Tumor-associated endothelial cells
+Set1_TAAGTGCAGGATGGTC-9	Tumor-associated endothelial cells
+Set1_TAAGTGCGTACATCCA-9	Tumor-associated endothelial cells
+Set1_TACACGAGTCTACCTC-9	Tumor-associated endothelial cells
+Set1_TACGGATAGATGGGTC-9	Tumor-associated endothelial cells
+Set1_TACGGATCATACGCCG-9	Tumor-associated endothelial cells
+Set1_TACGGTAGTCGCGGTT-9	Tumor-associated endothelial cells
+Set1_TACGGTAGTTGCTCCT-9	Tumor-associated endothelial cells
+Set1_TACTCGCTCCCTTGCA-9	Tumor-associated endothelial cells
+Set1_TACTCGCTCTTCCTTC-9	Tumor-associated endothelial cells
+Set1_TAGACCACATTCCTGC-9	Tumor-associated endothelial cells
+Set1_TAGAGCTGTACATCCA-9	Tumor-associated endothelial cells
+Set1_TAGTGGTAGGACTGGT-9	Tumor-associated endothelial cells
+Set1_TAGTTGGTCGGTCCGA-9	Tumor-associated endothelial cells
+Set1_TATCAGGCATTACCTT-9	Tumor-associated endothelial cells
+Set1_TATCAGGTCAGCTCGG-9	Tumor-associated endothelial cells
+Set1_TATCAGGTCTACGAGT-9	Tumor-associated endothelial cells
+Set1_TATGCCCCATTACGAC-9	Tumor-associated endothelial cells
+Set1_TCAACGACAGACGCCT-9	Tumor-associated endothelial cells
+Set1_TCACAAGAGTGTCCAT-9	Tumor-associated endothelial cells
+Set1_TCACAAGGTAGCACGA-9	Tumor-associated endothelial cells
+Set1_TCACGAACAAGCCGCT-9	Tumor-associated endothelial cells
+Set1_TCAGATGAGATGTCGG-9	Tumor-associated endothelial cells
+Set1_TCAGATGTCCGTAGTA-9	Tumor-associated endothelial cells
+Set1_TCAGCAAAGCCATCGC-9	Tumor-associated endothelial cells
+Set1_TCAGCAAAGTGTACGG-9	Tumor-associated endothelial cells
+Set1_TCAGCAACAGGCGATA-9	Tumor-associated endothelial cells
+Set1_TCAGGATGTAAGAGAG-9	Tumor-associated endothelial cells
+Set1_TCAGGTATCCCTGACT-9	Tumor-associated endothelial cells
+Set1_TCATTACAGTAAGTAC-9	Tumor-associated endothelial cells
+Set1_TCATTTGGTTCAGTAC-9	Tumor-associated endothelial cells
+Set1_TCCACACTCTCCTATA-9	Tumor-associated endothelial cells
+Set1_TCCCGATTCCCTAATT-9	Tumor-associated endothelial cells
+Set1_TCGCGAGAGAAGGGTA-9	Tumor-associated endothelial cells
+Set1_TCGCGAGAGTACACCT-9	Tumor-associated endothelial cells
+Set1_TCGGGACCATCAGTCA-9	Tumor-associated endothelial cells
+Set1_TCGTACCAGGTGTGGT-9	Tumor-associated endothelial cells
+Set1_TCGTACCCATGGAATA-9	Tumor-associated endothelial cells
+Set1_TCGTAGATCCACGTTC-9	Tumor-associated endothelial cells
+Set1_TCTCATACAAGCGCTC-9	Tumor-associated endothelial cells
+Set1_TCTCATATCATAACCG-9	Tumor-associated endothelial cells
+Set1_TCTCTAAAGGACTGGT-9	Tumor-associated endothelial cells
+Set1_TCTCTAACAGAAGCAC-9	Tumor-associated endothelial cells
+Set1_TCTCTAACAGTCACTA-9	Tumor-associated endothelial cells
+Set1_TGAAAGATCAACTCTT-9	Tumor-associated endothelial cells
+Set1_TGACGGCCAGATGGCA-9	Tumor-associated endothelial cells
+Set1_TGACTAGTCTCCAGGG-9	Tumor-associated endothelial cells
+Set1_TGACTTTTCAGGTAAA-9	Tumor-associated endothelial cells
+Set1_TGAGAGGCACACCGAC-9	Tumor-associated endothelial cells
+Set1_TGAGCATAGCTGCCCA-9	Tumor-associated endothelial cells
+Set1_TGAGCATTCATCATTC-9	Tumor-associated endothelial cells
+Set1_TGATTTCTCCAAGCCG-9	Tumor-associated endothelial cells
+Set1_TGCACCTAGAACAACT-9	Tumor-associated endothelial cells
+Set1_TGCCAAACAGCGTAAG-9	Tumor-associated endothelial cells
+Set1_TGCCCTATCGTGGACC-9	Tumor-associated endothelial cells
+Set1_TGCGCAGGTGCAGTAG-9	Tumor-associated endothelial cells
+Set1_TGCGGGTCAAAGAATC-9	Tumor-associated endothelial cells
+Set1_TGCTACCCACGGTTTA-9	Tumor-associated endothelial cells
+Set1_TGGCCAGAGGCGACAT-9	Tumor-associated endothelial cells
+Set1_TGGCCAGCACGGTAGA-9	Tumor-associated endothelial cells
+Set1_TGGGCGTAGAGAACAG-9	Tumor-associated endothelial cells
+Set1_TGGGCGTTCTTCTGGC-9	Tumor-associated endothelial cells
+Set1_TGGTTAGCATAAGACA-9	Tumor-associated endothelial cells
+Set1_TGGTTAGCATGGTCAT-9	Tumor-associated endothelial cells
+Set1_TGTCCCAGTAACGACG-9	Tumor-associated endothelial cells
+Set1_TGTTCCGTCACGATGT-9	Tumor-associated endothelial cells
+Set1_TGTTCCGTCATAACCG-9	Tumor-associated endothelial cells
+Set1_TTAACTCAGGCCATAG-9	B cells
+Set1_TTAGGCAGTGTGACCC-9	Tumor-associated endothelial cells
+Set1_TTAGGCATCTGGTTCC-9	Tumor-associated endothelial cells
+Set1_TTATGCTAGATATACG-9	Tumor-associated endothelial cells
+Set1_TTATGCTAGTTAGCGG-9	Tumor-associated endothelial cells
+Set1_TTCCCAGCAAAGGAAG-9	Tumor-associated endothelial cells
+Set1_TTCCCAGCATTTGCTT-9	Tumor-associated endothelial cells
+Set1_TTCGAAGCAATCGAAA-9	Tumor-associated endothelial cells
+Set1_TTCGGTCGTTAGAACA-9	Tumor-associated endothelial cells
+Set1_TTCTACAAGCTAAGAT-9	Tumor-associated endothelial cells
+Set1_TTCTACAGTCGTGGCT-9	Tumor-associated endothelial cells
+Set1_TTCTCCTTCAGCTCTC-9	Tumor-associated endothelial cells
+Set1_TTCTTAGAGGACGAAA-9	Tumor-associated endothelial cells
+Set1_TTCTTAGCATGTTCCC-9	Tumor-associated endothelial cells
+Set1_TTGCCGTCAGGTGCCT-9	Tumor-associated endothelial cells
+Set1_TTGCGTCGTACGCTGC-9	Tumor-associated endothelial cells
+Set1_TTGGAACTCAAACGGG-9	Tumor-associated endothelial cells
+Set1_TTGGAACTCAGGCCCA-9	Tumor-associated endothelial cells
+Set1_TTGGCAAGTACCATCA-9	Tumor-associated endothelial cells
+Set1_TTGGCAATCAAACCAC-9	Tumor-associated endothelial cells
+Set1_TTTACTGAGCTTCGCG-9	Tumor-associated endothelial cells
+Set1_TTTACTGGTATGGTTC-9	Tumor-associated endothelial cells
+Set1_TTTATGCTCATTGCGA-9	Tumor-associated endothelial cells
+Set1_TTTGGTTAGGCCCGTT-9	Tumor-associated endothelial cells
+Set1_TTTGTCACAATAACGA-9	Tumor-associated endothelial cells
+Set1_ACTGAGTTCCACGTTC-10	B cells
+Set1_AGATTGCCAAATACAG-10	B cells
+Set1_AGCAGCCTCAACACGT-10	B cells
+Set1_AGCTTGACAGTAAGAT-10	B cells
+Set1_AGGGAGTGTTATCACG-10	B cells
+Set1_ATAGACCGTCGAGATG-10	B cells
+Set1_CAACCAACATATACGC-10	B cells
+Set1_CAACTAGAGCAGACTG-10	B cells
+Set1_CAGGTGCAGCTCCTCT-10	B cells
+Set1_CCCTCCTAGAGACTTA-10	B cells
+Set1_CCTAGCTCAATGACCT-10	B cells
+Set1_CCTCAGTTCCTAGTGA-10	B cells
+Set1_CGCTTCAAGACAGACC-10	B cells
+Set1_CTCGAGGAGAAACGAG-10	B cells
+Set1_CTGAAACAGCAGGTCA-10	B cells
+Set1_GACGGCTAGAATTGTG-10	B cells
+Set1_GATCTAGAGTCTTGCA-10	B cells
+Set1_TAGCCGGAGTCAATAG-10	B cells
+Set1_TATTACCTCGGTTCGG-10	B cells
+Set1_TTCTTAGTCTCGCTTG-10	B cells
+Set1_GCAGTTAGTATAATGG-13	Tumor-associated endothelial cells
+Set1_TACTCGCGTAGCTAAA-13	Tumor-associated endothelial cells
+Set2_AAAGATGCATCGTCGG-10	Tumor-associated endothelial cells
+Set2_AAATGCCAGGACAGAA-10	Tumor-associated endothelial cells
+Set2_AATCCAGCATAACCTG-10	Tumor-associated endothelial cells
+Set2_ACATACGAGCCCAACC-10	Tumor-associated endothelial cells
+Set2_ACCGTAAAGACCCACC-10	Tumor-associated endothelial cells
+Set2_ACGCAGCAGTTGAGAT-10	Tumor-associated endothelial cells
+Set2_AGAGTGGTCACCACCT-10	Tumor-associated endothelial cells
+Set2_AGGCCACAGGAATTAC-10	Tumor-associated endothelial cells
+Set2_AGGTCCGAGGTAGCTG-10	Tumor-associated endothelial cells
+Set2_ATCATGGGTGCGGTAA-10	Tumor-associated endothelial cells
+Set2_CAAGAAAAGGCATTGG-10	Tumor-associated endothelial cells
+Set2_CACCAGGTCGTAGGTT-10	Tumor-associated endothelial cells
+Set2_CATCAGACACTTAACG-10	Tumor-associated endothelial cells
+Set2_CCTACCATCGCATGAT-10	Tumor-associated endothelial cells
+Set2_CCTATTATCGTAGATC-10	B cells
+Set2_CGCCAAGCATATGCTG-10	Tumor-associated endothelial cells
+Set2_CGCGTTTTCCAACCAA-10	Tumor-associated endothelial cells
+Set2_CGTCACTAGACACTAA-10	Tumor-associated endothelial cells
+Set2_CGTCCATTCTAACTCT-10	Tumor-associated endothelial cells
+Set2_CTAGTGATCTGGTGTA-10	Tumor-associated endothelial cells
+Set2_CTCAGAAGTGGCCCTA-10	Tumor-associated endothelial cells
+Set2_CTCGTACCACCAGGTC-10	Tumor-associated endothelial cells
+Set2_CTCTAATGTACATCCA-10	Tumor-associated endothelial cells
+Set2_CTGTTTATCCTAGTGA-10	Tumor-associated endothelial cells
+Set2_CTTAGGAAGATATACG-10	Tumor-associated endothelial cells
+Set2_GAGGTGAGTGTGTGCC-10	Tumor-associated endothelial cells
+Set2_GATCGCGCACGGTTTA-10	Tumor-associated endothelial cells
+Set2_GATCTAGTCTACCAGA-10	Tumor-associated endothelial cells
+Set2_GATGAGGAGACAATAC-10	Tumor-associated endothelial cells
+Set2_GATGCTACAAACGCGA-10	Tumor-associated endothelial cells
+Set2_GCAATCATCCCTGACT-10	Tumor-associated endothelial cells
+Set2_GCATGATCAAGGTGTG-10	Tumor-associated endothelial cells
+Set2_GGGAATGGTTAAGACA-10	B cells
+Set2_GGGTTGCGTGTGACGA-10	Tumor-associated endothelial cells
+Set2_GTCAAGTTCAACACGT-10	B cells
+Set2_GTCACAAGTGTTCGAT-10	Tumor-associated endothelial cells
+Set2_GTGCAGCTCTAACGGT-10	Tumor-associated endothelial cells
+Set2_TATCTCAAGTCAATAG-10	Tumor-associated endothelial cells
+Set2_TCACGAAAGAACTGTA-10	Tumor-associated endothelial cells
+Set2_TCCCGATGTTTAAGCC-10	Tumor-associated endothelial cells
+Set2_TCGTAGAAGGCAATTA-10	Tumor-associated endothelial cells
+Set2_TCTCATAAGCAAATCA-10	B cells
+Set2_TGAGGGAGTTAAGAAC-10	Tumor-associated endothelial cells
+Set2_TGCCCTACACATGTGT-10	Tumor-associated endothelial cells
+Set2_TGCGTGGTCAGTCCCT-10	Tumor-associated endothelial cells
+Set2_TGTGGTAGTGCGATAG-10	Tumor-associated endothelial cells
+Set2_TGTGGTATCCGCATAA-10	B cells
+Set2_TTAGGCACAATAGCGG-10	Tumor-associated endothelial cells
+Set2_TTGCCGTTCAGTGCAT-10	Tumor-associated endothelial cells
+Set2_AAAGTAGCACGGCGTT-21	Tumor-associated endothelial cells
+Set2_AAGACCTAGTAGCGGT-21	B cells
+Set2_AAGGTTCAGGTGATAT-21	B cells
+Set2_ACAGCCGAGCACACAG-21	B cells
+Set2_ACGCCGAAGAGCCCAA-21	Tumor-associated endothelial cells
+Set2_AGGCCGTGTCGAGATG-21	Tumor-associated endothelial cells
+Set2_AGGCCGTTCTGAGGGA-21	B cells
+Set2_CAAGAAACACAACGCC-21	Tumor-associated endothelial cells
+Set2_CACCTTGGTGGCAAAC-21	B cells
+Set2_CATCAGAAGAAACCGC-21	B cells
+Set2_CATTATCAGGGAACGG-21	B cells
+Set2_CCATGTCGTCACTTCC-21	B cells
+Set2_CCTTTCTTCTAACCGA-21	Tumor-associated endothelial cells
+Set2_CGAGCCAAGGAATTAC-21	B cells
+Set2_CGAGCCACAGGACGTA-21	B cells
+Set2_CGCGTTTAGTGTACCT-21	B cells
+Set2_CTGGTCTCATACTCTT-21	B cells
+Set2_CTTAACTGTTTGTGTG-21	B cells
+Set2_CTTTGCGTCCTTTCGG-21	B cells
+Set2_GATCTAGAGGTGCTAG-21	B cells
+Set2_GCATGCGCACATGACT-21	B cells
+Set2_GGCGTGTTCTGGCGTG-21	B cells
+Set2_GTCAAGTTCGATGAGG-21	B cells
+Set2_GTTCATTTCAGTTCGA-21	B cells
+Set2_TACTCATAGGACTGGT-21	B cells
+Set2_TACTTGTAGTAGATGT-21	B cells
+Set2_TCGGGACAGTCAAGGC-21	B cells
+Set2_TGAGAGGTCAGTCAGT-21	B cells
+Set2_TGAGCCGAGAGGTTAT-21	B cells
